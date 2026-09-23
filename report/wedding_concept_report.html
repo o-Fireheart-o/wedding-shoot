@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>하남 봉스튜디오 웨딩촬영 콘셉트 보고서</title>
+<style>
+:root{--bg:#fbf9f7;--ink:#241f1c;--mut:#6b625c;--line:#e3dbd4;--card:#fff;
+--acc:#a8624f;--acc-s:#f3e6e1;--fact:#2f6d4f;--fact-s:#e6f1ea;--est:#8a6a1f;--est-s:#f7efdc;--warn:#9b3d33;--warn-s:#fbe9e6}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);
+font-family:"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",system-ui,sans-serif;
+line-height:1.7;font-size:16px;word-break:keep-all;overflow-wrap:anywhere}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px 72px}
+header{background:linear-gradient(160deg,#fff 0%,var(--acc-s) 100%);border-bottom:1px solid var(--line);
+padding:40px 0 28px;margin-bottom:8px}
+header .wrap{padding-bottom:0}
+h1{font-size:1.72rem;margin:0 0 6px;letter-spacing:-.02em}
+.sub{color:var(--mut);font-size:.95rem;margin:0}
+h2{font-size:1.3rem;margin:48px 0 6px;padding-bottom:8px;border-bottom:2px solid var(--acc);letter-spacing:-.01em}
+h2 .no{color:var(--acc);font-weight:700;margin-right:8px}
+h3{font-size:1.05rem;margin:28px 0 8px}
+h4{font-size:.98rem;margin:18px 0 6px}
+p,li{font-size:.95rem}
+a{color:#7c4433}
+.lede{color:var(--mut);margin:.2rem 0 1rem;font-size:.92rem}
+.chip{display:inline-block;font-size:.72rem;font-weight:700;padding:1px 7px;border-radius:999px;
+border:1px solid;vertical-align:1px;white-space:nowrap}
+.c-fact{color:var(--fact);background:var(--fact-s);border-color:#bcd9c9}
+.c-est{color:var(--est);background:var(--est-s);border-color:#e3cd97}
+.c-warn{color:var(--warn);background:var(--warn-s);border-color:#edc3bc}
+.c-hold{color:var(--mut);background:#efebe8;border-color:var(--line)}
+.est-u{border-bottom:1px dotted var(--est);color:var(--est)}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:14px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card .k{font-size:.74rem;color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin:0 0 4px}
+.card .v{font-size:1.34rem;font-weight:700;margin:0;line-height:1.3}
+.card .n{font-size:.82rem;color:var(--mut);margin:4px 0 0}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:12px;background:var(--card);margin:14px 0}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:.88rem}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:#f6f1ed;font-weight:700;white-space:nowrap;font-size:.82rem}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:nth-child(even){background:#fdfbfa}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.board{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;margin:14px 0}
+figure{margin:0;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+figure img{width:100%;height:230px;object-fit:cover;display:block;background:#efebe8}
+figcaption{padding:10px 12px;font-size:.82rem;flex:1;display:flex;flex-direction:column;gap:5px}
+figcaption .set{font-weight:700;font-size:.86rem}
+figcaption .desc{color:var(--mut)}
+figcaption .chk{color:var(--warn);font-size:.78rem}
+figcaption .src{margin-top:auto;font-size:.78rem}
+.note{background:#fff;border-left:4px solid var(--acc);border-radius:0 10px 10px 0;padding:12px 16px;margin:14px 0;font-size:.9rem}
+.note.w{border-left-color:var(--warn);background:var(--warn-s)}
+.note p:first-child{margin-top:0}.note p:last-child{margin-bottom:0}
+.sep{background:#f3ece7;border:1px dashed var(--acc);border-radius:12px;padding:16px 18px;margin:16px 0}
+.sep h2{margin-top:0;border-bottom-color:var(--acc)}
+ol.q{padding-left:20px}ol.q>li{margin-bottom:6px}
+.sl{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:0 12px 12px 0;padding:14px 16px;margin:12px 0}
+.sl h3{margin:0 0 4px;font-size:1.02rem}
+.sl .meta{font-size:.8rem;color:var(--mut);margin:0 0 8px}
+.sl p{margin:5px 0}
+.sl .ref{background:#f6f1ed;border-radius:8px;padding:8px 11px;font-size:.84rem;margin-top:9px}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:var(--mut);font-size:.82rem}
+@media (max-width:560px){
+ body{font-size:15px}h1{font-size:1.4rem}h2{font-size:1.14rem}
+ figure img{height:200px}
+ .card .v{font-size:1.16rem}
+ table{font-size:.84rem}
+}
+</style></head><body>
+<header><div class="wrap">
+<h1>하남 봉스튜디오 웨딩촬영 콘셉트 보고서</h1>
+<p class="sub">조사일 2026-09-20 · 공개 자료 기반 · <span class="chip c-fact">사실</span> 직접 열어 확인한 것 &nbsp;<span class="chip c-est">추정</span> 자료에서 읽어낸 해석 &nbsp;<span class="chip c-warn">주의</span> 스튜디오 확인 필요</p>
+</div></header>
+<div class="wrap">
+<h2 id="s1"><span class="no">1</span>요약</h2>
+<p class="lede">하남 미사리 봉스튜디오의 공개 포트폴리오를 직접 내려받아 분류한 결과와, 캐주얼 무드에 한해 따로 모은 타 스튜디오 레퍼런스를 함께 싣는다.</p>
+<h3>조사 기간과 표본</h3>
+<div class="grid2">
+<div class="card"><p class="k">조사 기간</p><p class="v">2026-09-20</p><p class="n">하루, 단일 세션</p></div>
+<div class="card"><p class="k">확인한 봉스 사진</p><p class="v">94장</p><p class="n"><span class="chip c-fact">사실</span> 이미지를 내려받아 육안 확인</p></div>
+<div class="card"><p class="k">확인한 세트</p><p class="v">29개</p><p class="n"><span class="chip c-fact">사실</span> 파일명에 남은 세트명</p></div>
+<div class="card"><p class="k">추정 촬영 세션</p><p class="v">46건</p><p class="n"><span class="chip c-est">추정</span> 카메라 프레임 번호 군집 · 하한값</p></div>
+<div class="card"><p class="k">타 스튜디오 캐주얼</p><p class="v">18건</p><p class="n"><span class="chip c-fact">사실</span> 무드 7종 · 봉스튜디오 0건</p></div>
+<div class="card"><p class="k">검증 판정</p><p class="v">PASS 107 / HOLD 7 / EXCLUDE 10</p><p class="n">hook.md 3규칙 재검증 결과</p></div>
+</div>
+<p style="font-size:.88rem;color:var(--mut)">agent.md 목표(봉스튜디오 사진 30장 이상, 외부 캐주얼 10건 이상)는 두 쪽 모두 충족했다. 다만 아래 주의사항에 적은 한계가 있어, 숫자를 그대로 ‘인기 순위’로 읽으면 안 된다.</p>
+<h3>핵심 결론</h3>
+<ol>
+<li><b>모던·미니멀이 압도적 1위다.</b> 순백 룸·계단·아치 복도·블랙 배경·우드 합판벽 계열이 컷 33장 <span class="chip c-fact">사실</span> / 세션 21건 <span class="chip c-est">추정</span>으로 가장 많다. 언론·제휴 소개문의 “모던한 실내배경”과 일치한다.</li>
+<li><b>2위는 야외 숲·가든.</b> 세트장 바로 옆 숲길·잔디밭을 쓰고, <b>노을 잔디밭(선셋씬)</b>이 이 계열의 대표 컷이다. 컷 20장 / 세션 13건.</li>
+<li><b>“엔틱”은 기대보다 얇다.</b> 제휴사 소개문은 “클래식하고 엔틱함”을 강점으로 내세우지만, 공개 포트폴리오에서 그렇게 분류되는 것은 캔들 롱테이블(<code>야간</code>) 계열 <b>컷 5장 / 세션 3건</b>뿐이다. <span class="chip c-warn">주의</span> 엔틱을 원하면 세트 운영 여부부터 물어야 한다.</li>
+<li><b>3·4위 차이는 유의하지 않다.</b> 플라워·로맨틱과 자연광·창가는 컷 수가 각 14장으로 동률이고 세션 수만 8 대 7로 갈린다.</li>
+<li><b>캐주얼은 봉스튜디오 안에도 있다.</b> 잔디밭 풍선·피켓 컷이 세션 4건 확인된다. 다만 티셔츠·청바지 수준의 캐주얼은 확인되지 않아, 외부 레퍼런스(§4)를 따로 모았다.</li>
+</ol>
+<h3>주의사항</h3>
+<div class="note w">
+<p><b>1. 봉스튜디오 실제 후기는 0건이다.</b> 네이버 블로그는 크롤러 차단, 공식 인스타그램 <code>@bongstudio_</code>은 로그인 월, 웨딩크라우드 후기 6건은 개별 글 주소가 노출되지 않아 <span class="chip c-hold">HOLD</span> 7건으로 남겼다. 이 보고서가 근거로 쓴 것은 <b>스튜디오가 선별해 올린 공식·제휴 포트폴리오뿐</b>이다. 실제 결과물이 샘플과 얼마나 같은지는 이 자료로 알 수 없다.</p>
+<p><b>2. 주소 표기가 두 가지다.</b> 공식 홈페이지 푸터는 <code>경기도 하남시 미사동로40번길 124-27</code>, <a href="https://www.wedding21.co.kr/news/articleView.html?idxno=302097" target="_blank" rel="noopener">2024년 12월 언론 기사</a>는 <code>경기도 하남시 미사동 203-7</code>로 적는다. 둘 다 하남시 미사동이지만 현재 촬영장이 어디인지는 직접 확인해야 한다(§5).</p>
+<p><b>3. 세션 수와 계절은 추정이다.</b> 세션은 카메라 프레임 번호 간격 300 기준으로 묶은 <b>하한 추정치</b>이고, 계절은 사진 속 식생·광질에서 읽었다. 촬영 일자는 어디에도 공개되어 있지 않다. <b>커플 수·예약 건수는 산출하지 않았다.</b></p>
+<p><b>4. 계절·날씨로 결과가 달라진다.</b> 제휴사 페이지에 “앨범의 성격상 날씨나 계절에 따라 촬영의 컨셉이 샘플과 달라질 수 있음”이 명시되어 있다. 야외 세트(운동장·정원·미니결혼·베일)가 직접 영향을 받는다.</p>
+<p><b>5. §4 외부 레퍼런스는 봉스튜디오 촬영이 아니다.</b> 18건 전부 재현 가능 여부가 <b>확인 필요</b>이고, 카페·스포츠·취미 무드는 확보하지 못했다. 5건은 매거진 기사 1건에서 나와 독립 출처 수가 사례 수보다 적다.</p>
+</div>
+<h2 id="s2"><span class="no">2</span>봉스튜디오 인기 콘셉트 순위표</h2>
+<p class="lede">확인 사례 수 기준 내림차순. <b>확인 컷 수는 사실</b>, <b>세션 수는 추정</b>이다. HOLD·EXCLUDE 항목은 집계에서 전부 제외했고, 타 스튜디오 레퍼런스(§4)는 한 건도 섞이지 않았다.</p>
+<div class="tw"><table>
+<thead><tr><th>순위</th><th>카테고리</th><th>확인 사례 수<br><span class='chip c-est'>추정</span> 세션</th><th>확인 컷 수<br><span class='chip c-fact'>사실</span></th><th>대표 세트 / 분위기</th><th>어울리는 커플</th><th>참고 링크</th></tr></thead><tbody>
+<tr><td class='num'>1</td><td><b>모던·미니멀</b><br><span style='font-size:.78rem;color:var(--mut)'>반복 확인됨</span></td><td class='num'><span class='est-u'>21</span></td><td class='num'>33</td><td>순백 룸·계단·아치 복도·블랙 배경·우드 합판벽 — 정돈된 배경에서 인물이 주인공<br><span style='font-size:.78rem;color:var(--mut)'>세트: 갤러리, 계단, 낮복도, 반반, 복도, 블랙, 주간파티, 프로젝터, 합판벽, 화이트</span></td><td>절제된 색·모노톤 의상이 잘 맞는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086ee3926fa22e0212_%EA%B0%A4%EB%9F%AC%EB%A6%AC1R1A2013-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>2</td><td><b>야외 숲·가든</b><br><span style='font-size:.78rem;color:var(--mut)'>반복 확인됨</span></td><td class='num'><span class='est-u'>13</span></td><td class='num'>20</td><td>세트장 바로 옆 숲길과 잔디밭. 노을 잔디밭(선셋씬)이 대표 컷<br><span style='font-size:.78rem;color:var(--mut)'>세트: 두건, 똥강아지, 베일, 벤치, 운동장, 정원</span></td><td>자연스럽고 편안한 분위기를 원하는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60714903fb4e41625c4_%EB%91%90%EA%B1%B41R1A4647-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>3</td><td><b>플라워·로맨틱 세트</b><br><span style='font-size:.78rem;color:var(--mut)'>확인됨</span></td><td class='num'><span class='est-u'>8</span></td><td class='num'>14</td><td>화이트 아치 + 그린 폴리지·흰 릴리 대형 장식, 레드·오렌지 컬러 배경, 미니 결혼식 세팅<br><span style='font-size:.78rem;color:var(--mut)'>세트: 개선문, 미니결혼, 성벽, 센터피스, 한화</span></td><td>화사한 색과 꽃 장식을 좋아하는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086838f90719091c2c_%EA%B0%9C%EC%84%A0%EB%AC%B8%201R1A9948-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>4</td><td><b>자연광·창가 로맨틱</b><br><span style='font-size:.78rem;color:var(--mut)'>확인됨</span></td><td class='num'><span class='est-u'>7</span></td><td class='num'>14</td><td>통창·육각창·작은창의 역광과 커튼·빛무늬, 창밖 수목<br><span style='font-size:.78rem;color:var(--mut)'>세트: 문앞, 육각창, 작은창, 통창</span></td><td>부드러운 빛과 클로즈업을 선호하는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60790d9616048a503a6_%EB%AC%B8%EC%95%9E1R1A7136-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>5</td><td><b>캐주얼·라이프스타일</b><br><span style='font-size:.78rem;color:var(--mut)'>확인됨</span></td><td class='num'><span class='est-u'>4</span></td><td class='num'>6</td><td>잔디밭에서 흰 풍선·대형 하트 풍선·‘Save the Date’ 피켓을 들고 노는 컷<br><span style='font-size:.78rem;color:var(--mut)'>세트: 포스터, 하트</span></td><td>웃는 컷·장난스러운 컷을 원하는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6521520f307ea940f26_%ED%8F%AC%EC%8A%A4%ED%84%B0GYU_1754-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>6</td><td><b>클래식·엔틱</b><br><span style='font-size:.78rem;color:var(--mut)'>표본 적음</span></td><td class='num'><span class='est-u'>3</span></td><td class='num'>5</td><td>캔들과 꽃을 올린 롱테이블, 따뜻한 텅스텐 톤 — 제휴사가 내세우는 ‘엔틱’에 가장 가까운 유일한 계열<br><span style='font-size:.78rem;color:var(--mut)'>세트: 야간</span></td><td>짙은 톤·고전적 분위기를 원하는 커플</td><td><a href='https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625abe712ac1a43e196_%EC%95%BC%EA%B0%841R1A0277-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif' target='_blank' rel='noopener'>대표 컷</a> · <a href='https://www.directwedding.co.kr/studio/bong' target='_blank' rel='noopener'>포트폴리오</a></td></tr>
+<tr><td class='num'>–</td><td>기타 (세트 불명 · 클로즈업 컷)</td><td class='num'><span class='est-u'>2</span></td><td class='num'>2</td><td>배경 특정 불가</td><td>—</td><td>6개 카테고리 집계 제외</td></tr>
+</tbody></table></div>
+<p style="font-size:.85rem;color:var(--mut)">세션 수 합(58)이 전체 세션 수(46)보다 큰 것은 <b>한 촬영이 여러 세트를 돌기 때문</b>이다(예: 한 세션이 베일 → 통창 → 작은창 → 정원으로 이어진다). 같은 세션이 여러 카테고리에 중복 계상된다.</p>
+<h2 id="s3"><span class="no">3</span>카테고리별 사진 보드</h2>
+<p class="lede">각 카테고리에서 서로 다른 세트를 우선해 3~5컷만 남겼다. 미리보기는 출처 서버의 원본 이미지를 그대로 불러온 것이며, 사진마다 원본 링크를 바로 옆에 붙였다. 출처는 전부 <a href="https://www.directwedding.co.kr/studio/bong" target="_blank" rel="noopener">다이렉트결혼준비 봉스튜디오 포트폴리오</a>(제휴)다.</p>
+<h3>모던·미니멀 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 33장 · <span class='est-u'>세션 21건</span> 중 5컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">순백 룸·계단·아치 복도·블랙 배경·우드 합판벽 — 정돈된 배경에서 인물이 주인공</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086ee3926fa22e0212_%EA%B0%A4%EB%9F%AC%EB%A6%AC1R1A2013-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="갤러리 세트 촬영 컷">
+<figcaption>
+<span class="set">갤러리 / 1R1A2013 <span class="chip c-est">세션 S03</span></span>
+<span class="desc">곡면 화이트 벽 + 부드러운 확산광 · 드레스 퍼뜨린 좌식 단독</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086ee3926fa22e0212_%EA%B0%A4%EB%9F%AC%EB%A6%AC1R1A2013-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607d00fe7fbfba27fab_%EA%B3%84%EB%8B%A81R1A5285-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="계단 세트 촬영 컷">
+<figcaption>
+<span class="set">계단 / 1R1A5285 <span class="chip c-est">세션 S07</span></span>
+<span class="desc">실내 계단(콘크리트/화이트) + 블라인드 창 · 계단 좌식</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607d00fe7fbfba27fab_%EA%B3%84%EB%8B%A81R1A5285-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607473c90eed2f76fd9_%EB%82%AE%EB%B3%B5%EB%8F%841R1A9406%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="낮복도 세트 촬영 컷">
+<figcaption>
+<span class="set">낮복도 / 1R1A9406 <span class="chip c-est">세션 S11</span></span>
+<span class="desc">아치형 화이트 복도 + 벽등 · 복도 워킹</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607473c90eed2f76fd9_%EB%82%AE%EB%B3%B5%EB%8F%841R1A9406%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60793b224e5d85e666b_%EB%B0%98%EB%B0%981R1A8218-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="반반 세트 촬영 컷">
+<figcaption>
+<span class="set">반반 / 1R1A8218 <span class="chip c-est">세션 S10</span></span>
+<span class="desc">실내 그레이·블랙 소파 · 소파 좌식 커플 전신</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60793b224e5d85e666b_%EB%B0%98%EB%B0%981R1A8218-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b615868e92e4b3d6f426_%EB%B3%B5%EB%8F%841R1A8998-1-2%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="복도 세트 촬영 컷">
+<figcaption>
+<span class="set">복도 / 1R1A8998 <span class="chip c-est">세션 S11</span></span>
+<span class="desc">실내 복도 + 벽등, 컨페티·꽃잎 연출 · 꽃잎 날림 전신</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b615868e92e4b3d6f426_%EB%B3%B5%EB%8F%841R1A8998-1-2%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<h3>야외 숲·가든 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 20장 · <span class='est-u'>세션 13건</span> 중 5컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">세트장 바로 옆 숲길과 잔디밭. 노을 잔디밭(선셋씬)이 대표 컷</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60714903fb4e41625c4_%EB%91%90%EA%B1%B41R1A4647-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="두건 세트 촬영 컷">
+<figcaption>
+<span class="set">두건 / 1R1A4647 <span class="chip c-est">세션 S06</span></span>
+<span class="desc">야외 숲 낙엽 바닥, 따뜻한 역광 · 두건(스카프·레이스) 착용 어깨동무</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60714903fb4e41625c4_%EB%91%90%EA%B1%B41R1A4647-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607d82c5bda7f740787_%EB%98%A5%EA%B0%95%EC%95%84%EC%A7%801R1A4735-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="똥강아지 세트 촬영 컷">
+<figcaption>
+<span class="set">똥강아지 / 1R1A4735 <span class="chip c-est">세션 S06</span></span>
+<span class="desc">야외 숲 짙은 녹음 · 마주보는 반신 커플</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607d82c5bda7f740787_%EB%98%A5%EA%B0%95%EC%95%84%EC%A7%801R1A4735-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607473c90eed2f76fd2_%EB%B2%A0%EC%9D%BC1R1A3345-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="베일 세트 촬영 컷">
+<figcaption>
+<span class="set">베일 / 1R1A3345 <span class="chip c-est">세션 S04</span></span>
+<span class="desc">야외 수목 + 대형 튤/베일 천 배경 · 베일 휘날림 단독</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607473c90eed2f76fd2_%EB%B2%A0%EC%9D%BC1R1A3345-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607007bd4aca99b9efa_%EB%B2%A4%EC%B9%98JUN_1991-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="벤치 세트 촬영 컷">
+<figcaption>
+<span class="set">벤치 / JUN_1991 <span class="chip c-est">세션 S24</span></span>
+<span class="desc">야외 나무 아래 벤치, 흰 꽃 · 화관 착용 단독</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b607007bd4aca99b9efa_%EB%B2%A4%EC%B9%98JUN_1991-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6255a5c728297586ae3_%EC%9A%B4%EB%8F%99%EC%9E%A51R1A4429-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="운동장 세트 촬영 컷">
+<figcaption>
+<span class="set">운동장 / 1R1A4429 <span class="chip c-est">세션 S06</span></span>
+<span class="desc">야외 넓은 잔디밭 + 노을 하늘(선셋씬) · 노을 실루엣 전신</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6255a5c728297586ae3_%EC%9A%B4%EB%8F%99%EC%9E%A51R1A4429-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<h3>플라워·로맨틱 세트 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 14장 · <span class='est-u'>세션 8건</span> 중 5컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">화이트 아치 + 그린 폴리지·흰 릴리 대형 장식, 레드·오렌지 컬러 배경, 미니 결혼식 세팅</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086838f90719091c2c_%EA%B0%9C%EC%84%A0%EB%AC%B8%201R1A9948-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="개선문 세트 촬영 컷">
+<figcaption>
+<span class="set">개선문 / 1R1A9948 <span class="chip c-est">세션 S12</span></span>
+<span class="desc">아치형 화이트 실내 + 흰 풍선·화이트 플라워, 꽃잎 연출 · Save the Date 피켓 정면 전신</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086838f90719091c2c_%EA%B0%9C%EC%84%A0%EB%AC%B8%201R1A9948-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6074cb6ed54014bbf24_%EB%AF%B8%EB%8B%88%EA%B2%B0%ED%98%BC1R1A5860-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="미니결혼 세트 촬영 컷">
+<figcaption>
+<span class="set">미니결혼 / 1R1A5860 <span class="chip c-est">세션 S08</span></span>
+<span class="desc">야외 숲 속 미니 결혼식 세팅(화이트 기둥 + 꽃 장식) · 기둥 사이 정면 전신</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6074cb6ed54014bbf24_%EB%AF%B8%EB%8B%88%EA%B2%B0%ED%98%BC1R1A5860-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b61570408da64b82c4d7_%EC%84%B1%EB%B2%BD1R1A9017-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="성벽 세트 촬영 컷">
+<figcaption>
+<span class="set">성벽 / 1R1A9017 <span class="chip c-est">세션 S11</span></span>
+<span class="desc">화이트 아치 + 그린 폴리지·흰 릴리 대형 장식 · 아치 앞 전신 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b61570408da64b82c4d7_%EC%84%B1%EB%B2%BD1R1A9017-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b61570408da64b82c511_%EC%84%BC%ED%84%B0%ED%94%BC%EC%8A%A41R1A6299-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="센터피스 세트 촬영 컷">
+<figcaption>
+<span class="set">센터피스 / 1R1A6299 <span class="chip c-est">세션 S08</span></span>
+<span class="desc">야외 숲 + 흰 칼라꽃 화단(센터피스) · 화단 사이 전신</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b61570408da64b82c511_%EC%84%BC%ED%84%B0%ED%94%BC%EC%8A%A41R1A6299-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7c1b2e7bf8ee2457224_%ED%95%9C%ED%99%941R1A2211-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="한화 세트 촬영 컷">
+<figcaption>
+<span class="set">한화 / 1R1A2211 <span class="chip c-est">세션 S03</span></span>
+<span class="desc">레드·오렌지 컬러 배경 + 오렌지 계열 꽃 · 필름카메라 소품 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7c1b2e7bf8ee2457224_%ED%95%9C%ED%99%941R1A2211-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<h3>자연광·창가 로맨틱 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 14장 · <span class='est-u'>세션 7건</span> 중 5컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">통창·육각창·작은창의 역광과 커튼·빛무늬, 창밖 수목</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60790d9616048a503a6_%EB%AC%B8%EC%95%9E1R1A7136-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="문앞 세트 촬영 컷">
+<figcaption>
+<span class="set">문앞 / 1R1A7136 <span class="chip c-est">세션 S09</span></span>
+<span class="desc">화이트 문·벽면 역광 · 롱베일 휘감는 반신 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b60790d9616048a503a6_%EB%AC%B8%EC%95%9E1R1A7136-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6355a5c728297586c6b_%EC%9C%A1%EA%B0%81%EC%B0%BD1R1A4066-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="육각창 세트 촬영 컷">
+<figcaption>
+<span class="set">육각창 / 1R1A4066 <span class="chip c-est">세션 S05</span></span>
+<span class="desc">실내 큰 창 + 창밖 초록 수목 · 창가 단독 반신</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6355a5c728297586c6b_%EC%9C%A1%EA%B0%81%EC%B0%BD1R1A4066-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b635a3a7e5367c08bc39_%EC%9E%91%EC%9D%80%EC%B0%BD1R1A3716-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="작은창 세트 촬영 컷">
+<figcaption>
+<span class="set">작은창 / 1R1A3716 <span class="chip c-est">세션 S04</span></span>
+<span class="desc">실내 작은 창 + 커튼, 벽면 빛무늬 · 역광 손등 키스</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b635a3a7e5367c08bc39_%EC%9E%91%EC%9D%80%EC%B0%BD1R1A3716-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b64d93b224e5d85e82b6_%ED%86%B5%EC%B0%BD1R1A2600-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="통창 세트 촬영 컷">
+<figcaption>
+<span class="set">통창 / 1R1A2600 <span class="chip c-est">세션 S04</span></span>
+<span class="desc">실내 전면 통창 + 흰 커튼, 창밖 수목 · 창 앞 바닥 좌식</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b64d93b224e5d85e82b6_%ED%86%B5%EC%B0%BD1R1A2600-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6359f86442f7afd3cc3_%EC%9C%A1%EA%B0%81%EC%B0%BDHO__2995-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="육각창 세트 촬영 컷">
+<figcaption>
+<span class="set">육각창 / HO__2995 <span class="chip c-est">세션 S19</span></span>
+<span class="desc">실내 큰 창 + 창밖 초록 수목 · 창가 단독 반신</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6359f86442f7afd3cc3_%EC%9C%A1%EA%B0%81%EC%B0%BDHO__2995-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<h3>캐주얼·라이프스타일 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 6장 · <span class='est-u'>세션 4건</span> 중 4컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">잔디밭에서 흰 풍선·대형 하트 풍선·‘Save the Date’ 피켓을 들고 노는 컷</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6521520f307ea940f26_%ED%8F%AC%EC%8A%A4%ED%84%B0GYU_1754-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="포스터 세트 촬영 컷">
+<figcaption>
+<span class="set">포스터 / GYU_1754 <span class="chip c-est">세션 S15</span></span>
+<span class="desc">야외 잔디밭 + 흰 풍선, Save the Date 피켓 · 피켓 정면</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6521520f307ea940f26_%ED%8F%AC%EC%8A%A4%ED%84%B0GYU_1754-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7c1bbab85878b22664e_%ED%95%98%ED%8A%B8GYU_1344-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="하트 세트 촬영 컷">
+<figcaption>
+<span class="set">하트 / GYU_1344 <span class="chip c-est">세션 S14</span></span>
+<span class="desc">야외 잔디밭 + 대형 레드 하트 풍선 · 풍선 들고 장난</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7c1bbab85878b22664e_%ED%95%98%ED%8A%B8GYU_1344-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6525997a71e311be095_%ED%8F%AC%EC%8A%A4%ED%84%B0HO__1335-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="포스터 세트 촬영 컷">
+<figcaption>
+<span class="set">포스터 / HO__1335 <span class="chip c-est">세션 S18</span></span>
+<span class="desc">야외 잔디밭 + 흰 풍선, Save the Date 피켓 · 피켓 정면</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6525997a71e311be095_%ED%8F%AC%EC%8A%A4%ED%84%B0HO__1335-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7b1d9ad1d9e304d76fa_%ED%8F%AC%EC%8A%A4%ED%84%B0L1220150-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="포스터 세트 촬영 컷">
+<figcaption>
+<span class="set">포스터 / L1220150 <span class="chip c-est">세션 S42</span></span>
+<span class="desc">야외 잔디밭 + 흰 풍선, Save the Date 피켓 · 피켓 정면</span>
+<span class="chk">재현 확인: 야외 — 계절·우천 대안 필수</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7b1d9ad1d9e304d76fa_%ED%8F%AC%EC%8A%A4%ED%84%B0L1220150-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<h3>클래식·엔틱 <span style='font-weight:400;font-size:.84rem;color:var(--mut)'>— 컷 5장 · <span class='est-u'>세션 3건</span> 중 3컷</span></h3>
+<p style="font-size:.88rem;color:var(--mut);margin:.1rem 0 .6rem">캔들과 꽃을 올린 롱테이블, 따뜻한 텅스텐 톤 — 제휴사가 내세우는 ‘엔틱’에 가장 가까운 유일한 계열</p>
+<div class="board">
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625abe712ac1a43e196_%EC%95%BC%EA%B0%841R1A0277-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="야간 세트 촬영 컷">
+<figcaption>
+<span class="set">야간 / 1R1A0277 <span class="chip c-est">세션 S01</span></span>
+<span class="desc">실내 캔들 + 꽃 장식 롱테이블, 따뜻한 텅스텐 톤 · 캔들 테이블 좌식 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625abe712ac1a43e196_%EC%95%BC%EA%B0%841R1A0277-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625a3a7e5367c08b744_%EC%95%BC%EA%B0%84GYU_8385-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="야간 세트 촬영 컷">
+<figcaption>
+<span class="set">야간 / GYU_8385 <span class="chip c-est">세션 S17</span></span>
+<span class="desc">실내 캔들 + 꽃 장식 롱테이블, 따뜻한 텅스텐 톤 · 캔들 테이블 좌식 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625a3a7e5367c08b744_%EC%95%BC%EA%B0%84GYU_8385-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+<figure>
+<img loading="lazy" decoding="async" src="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6255a5c728297586ac0_%EC%95%BC%EA%B0%84%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" alt="야간 세트 촬영 컷">
+<figcaption>
+<span class="set">야간 / 번호없음 <span class="chip c-est">세션 S44</span></span>
+<span class="desc">실내 캔들 + 꽃 장식 롱테이블, 따뜻한 텅스텐 톤 · 캔들 테이블 좌식 커플</span>
+<span class="chk">재현 확인: 실내 — 세트 현재 운영 여부</span>
+<span class="src"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6255a5c728297586ac0_%EC%95%BC%EA%B0%84%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 이미지 열기 ↗</a></span>
+</figcaption></figure>
+</div>
+<div class="note w"><p>이 카테고리는 확인된 컷이 5장(세션 3건)뿐이고 <b>전부 같은 <code>야간</code> 세트</b>다. 서로 다른 세트가 없어 3컷을 넘기지 못했다 — 후보를 억지로 채우지 않았다.</p></div>
+<p style="font-size:.85rem;color:var(--mut)">이 보드에는 넣지 않았지만, 공식 홈페이지의 연간 샘플 시리즈 13종도 링크가 열리는 것을 확인했다: <a href="http://studiobong.com/galleries/2024-comely/" target="_blank" rel="noopener">2024 COMELY</a>, <a href="http://studiobong.com/galleries/2023-winsome/" target="_blank" rel="noopener">2023 WINSOME</a>, <a href="http://studiobong.com/galleries/2021heshe/" target="_blank" rel="noopener">2022 He &amp; She</a> 등. 2020년 이전 10종은 개별 컷을 열람하지 않아 카테고리를 판정하지 않았다. (이 주소들은 <code>https</code>로는 열리지 않아 <code>http</code>로 적었다.)</p>
+<div class="sep">
+<h2 id="s4"><span class="no">4</span>별도 — 타 스튜디오 캐주얼 레퍼런스</h2>
+<div class="note w"><p><b>이 절의 18건은 모두 봉스튜디오 촬영이 아니다.</b> agent.md가 캐주얼 카테고리에 한해 장소 제한을 풀었기에 따로 모은 외부 자료이며, §2 순위표와 §3 사진 보드에는 <b>한 건도 포함되지 않았다</b>(검증 로그에서 교차 확인). <b>봉스튜디오 재현 가능 여부는 18건 전부 “확인 필요”</b>이고, 스튜디오에 직접 물어야 바뀐다.</p></div>
+<h3>agent.md 무드 분류 대비 확보 현황</h3>
+<div class="tw"><table><thead><tr><th>무드</th><th>해당 사례</th><th>상태</th></tr></thead><tbody>
+<tr><td>도시 산책</td><td>C03, C05, C08, C17</td><td><span class="chip c-fact">확보</span></td></tr>
+<tr><td>데이트</td><td>C09, C10, C11, C14</td><td><span class="chip c-fact">확보</span></td></tr>
+<tr><td>홈</td><td>C01, C06</td><td><span class="chip c-fact">확보</span></td></tr>
+<tr><td>카페</td><td>—</td><td><span class="chip c-warn">미확보</span></td></tr>
+<tr><td>스포츠·취미</td><td>—</td><td><span class="chip c-warn">미확보</span></td></tr>
+<tr><td>여행·바다/제주</td><td>C02, C12, C13, C15</td><td><span class="chip c-fact">확보(추가)</span></td></tr>
+<tr><td>야외 활동·놀이</td><td>C04, C16</td><td><span class="chip c-fact">확보(추가)</span></td></tr>
+<tr><td>근교 자연 산책</td><td>C07</td><td><span class="chip c-fact">확보(추가)</span></td></tr>
+<tr><td>반려동물 동반</td><td>C18</td><td><span class="chip c-fact">확보(추가)</span></td></tr>
+</tbody></table></div>
+<p style="font-size:.88rem;color:var(--mut)"><b>카페·스포츠·취미 무드는 확보하지 못했다.</b> 검색은 했으나 검증 가능한 개별 촬영 사례가 나오지 않아(검색 결과가 핀터레스트 모음판·셀프웨딩 가이드뿐) 억지로 채우지 않았다. 가장 근접한 것은 C16(서퍼가 많은 송정 바닷가·철길 옆 골목)과 C04(달리기·춤을 찍은 시골길)다.</p>
+<h3>레퍼런스 18건</h3>
+<div class="tw"><table><thead><tr><th>ID</th><th>스튜디오 / 촬영 장소</th><th>무드</th><th>의상</th><th>포즈·상호작용</th><th>계절·시간대</th><th>출처</th><th>봉스 재현</th><th>읽을 때 주의</th></tr></thead><tbody>
+<tr><td><b>C01</b></td><td><b>스튜디오 크리미</b> (서울 송파, 시간당 3만원 대여 스튜디오에서 커플이 직접 셀프 촬영)</td><td>홈·실내(셀프 스튜디오)</td><td>격식 있는 예복·드레스 + 스튜디오 비치 소품</td><td>레퍼런스 보며 즉흥 연출, 서로 옷 바꿔 입기 등 놀이형 상호작용</td><td>2024년 7월 초(여름 장마철), 흐림</td><td><a href='https://brunch.co.kr/@junha04/149' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C02</b></td><td><b>동해 밤바다</b> (촬영 작가·업체명 원문 미공개)</td><td>여행·바다</td><td>원문에 실제 착용 의상 미기재(참고 레퍼런스로 검은 롱드레스+컨버스 언급)</td><td>춤추기, 달리기, 걷기 등 역동적 동작 / 활짝 웃는 표정 (촬영 계획 단계 서술)</td><td>4월 중순 주말, 야간(밤바다 배경) 포함</td><td><a href='https://brunch.co.kr/@honeysoul/22' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기(촬영 준비 글)</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>촬영 <b>계획 단계</b> 글 (결과물 아님)</td></tr>
+<tr><td><b>C03</b></td><td><b>차 없는 도로·야외 거리</b> (구체 스튜디오 없음, 의상은 홍대 빈티지샵)</td><td>도시·거리 산책</td><td>빈티지 드레스 2벌(각 3만원)</td><td>손잡고 바라보기, 억지웃음 대신 자연스러운 웃음 유도</td><td>겨울 시작 → 봄·여름·가을까지 사계절 분산 촬영</td><td><a href='https://brunch.co.kr/@threeclover/55' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C04</b></td><td><b>예천 선몽대 인근 자연공간 · 한옥 숙소 · 집 근처 시골길/기찻길</b> (동일 커플 2편)</td><td>야외 활동·놀이</td><td>화이트 티셔츠+청바지, 끈 원피스, 오트밀 리넨 셔츠+청바지, 부츠 (총 촬영의상비 7.2만원)</td><td>달리기, 춤추기, 달려와 안기기, 뒤돌아보기, 돗자리에 앉기 / &quot;팔다리 동작은 크게, 관절은 부드럽게&quot;</td><td>9월 초 이틀간, 새벽 5시 30분(일출 직후) 및 오후 4시 30분~일몰</td><td><a href='https://brunch.co.kr/@amymoong/114' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C05</b></td><td><b>바르셀로나(사그라다 파밀리아·고딕지구) · 포르투(상벤투역·동루이스 다리)</b> — 현지 작가 섭외, 업체명 원문 미공개</td><td>도시·거리 산책(해외)</td><td>흰 드레스 6만원, 검정 드레스 1.5만원, 구두 3만원, 악세서리 1만원대 — 심플·무난</td><td>두 도시에서 같은 옷·같은 포즈로 촬영해 결과물 비교</td><td>확인 불가</td><td><a href='https://brunch.co.kr/@e741835775f7438/210' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>해외 촬영 — 장소가 아니라 방법론 참고</td></tr>
+<tr><td><b>C06</b></td><td><b>은평구 한옥 공간</b> (&quot;웨딩스러운 공간이 아닌, 다같이 우리 집에 놀러 와&quot; 콘셉트)</td><td>홈·실내(한옥)</td><td>일상에서도 입을 수 있는 심플 드레스, 신부 어머니가 직접 제작한 한복, 스냅용 검정 원피스</td><td>보물찾기, 캔버스 그리기 등 하객과 함께하는 놀이형 상호작용</td><td>2024년 5월 5일, 6시간 진행</td><td><a href='https://brunch.co.kr/@inalee/38' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>실제후기</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>한옥 <b>스몰웨딩 행사</b> 서술 비중이 큼</td></tr>
+<tr><td><b>C07</b></td><td><b>구호 스튜디오</b> (서울 성동구) / 촬영지 <b>서울숲</b></td><td>근교 자연 산책(내추럴·캐주얼)</td><td>확인 불가</td><td>확인 불가</td><td>봄·초여름 권장</td><td><a href='https://www.directwedding.co.kr/blog/outdoor-wedding-snapshots' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C08</b></td><td><b>나라코드 작가</b>(필름커넥트 소속) / 촬영지 <b>난지한강공원</b>(상암, 월드컵대교 배경)</td><td>도시·거리 산책(한강)</td><td>가벼운 세미 드레스 / 캐주얼 커플룩 제안</td><td>확인 불가</td><td>겨울 저녁(일몰 시간대)</td><td><a href='https://blog.filmconnect.co.kr/%ED%95%84%EB%A6%84%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%84%9C%EC%9A%B8-%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90-%EC%9B%A8%EB%94%A9%EC%8A%A4%EB%83%85-%ED%9B%84%EA%B8%B0-%EC%9E%91%EA%B0%80%EC%B6%94%EC%B2%9C-%EB%82%98%EB%9D%BC%EC%BD%94%EB%93%9C--107802' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C09</b></td><td><b>김태우스냅</b>(스냅퍼 플랫폼, 서울, 경력 13년)</td><td>데이트 동행 스냅</td><td>셀프웨딩스냅 시 드레스 렌탈업체 &#x27;드레시니&#x27; 제휴</td><td>확인 불가</td><td>확인 불가 (데이트스냅 2~3시간 / 셀프웨딩스냅 3~4시간)</td><td><a href='https://www.snaaaper.com/shootingGallery/1259' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C10</b></td><td><b>정말제대로하자</b>(크몽) / 궁·공원·스튜디오 등 희망 장소, 서울·경기·제주·해외 출장</td><td>데이트 동행 스냅(다큐멘터리형)</td><td>확인 불가</td><td>확인 불가 (커플이 제시한 콘셉트에 맞춰 진행, 없으면 작가가 장소 섭외)</td><td>확인 불가 (촬영 120분)</td><td><a href='https://kmong.com/gig/239071' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C11</b></td><td><b>마인드무브</b>(크몽, 프리랜서 4년) / 서울·경기·강원 실내외, 실내는 고객이 대여 스튜디오 섭외</td><td>데이트 동행 스냅(자연스러운 캐주얼)</td><td>고객 준비(작가는 상담만 제공)</td><td>확인 불가 (&quot;자연스러운 모습을 담는 스냅&quot;, 과한 보정 지양)</td><td>확인 불가 (촬영 2시간)</td><td><a href='https://kmong.com/gig/469930' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C12</b></td><td><b>댕귤스튜디오</b>(크몽) / 제주도, 패키지별 3~5개 장소 이동</td><td>여행·제주</td><td>확인 불가</td><td>다양한 포즈 제안(리뷰 기재)</td><td>확인 불가</td><td><a href='https://kmong.com/gig/420250' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>—</td></tr>
+<tr><td><b>C13</b></td><td><b>하라 사진관</b> / 제주 애월 중산간·송악산 입구·곽지 과물해수욕장</td><td>여행·제주(여행 감성)</td><td>자연스러운 스타일</td><td>확인 불가</td><td>사계절(송악산은 봄·여름 초원, 가을·겨울 억새)</td><td><a href='https://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&amp;info_id=75835' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>MYWEDDING 기사 1건에서 나온 5건 중 하나</td></tr>
+<tr><td><b>C14</b></td><td><b>강릉 원규앤노블레스 스튜디오</b>(이동진) / 강릉 경포호·안목해변·평창 대관령 삼양목장</td><td>데이트 동행 스냅(데이트 느낌)</td><td>흰색 드레스, <b>편안한 커플룩</b></td><td>확인 불가</td><td>봄(벚꽃), 그 외 사계절</td><td><a href='https://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&amp;info_id=75835' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>MYWEDDING 기사 1건에서 나온 5건 중 하나</td></tr>
+<tr><td><b>C15</b></td><td><b>오브센트</b>(김성겸) / 해파랑길 37코스(강릉 염전해변)·등명해수욕장·경포비치호텔 레스토랑</td><td>여행·바다(이국적·빈티지·영화적)</td><td>빈티지 의상, 컬러풀한 외투</td><td>확인 불가</td><td>맑은 날씨 권장</td><td><a href='https://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&amp;info_id=75835' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>MYWEDDING 기사 1건에서 나온 5건 중 하나</td></tr>
+<tr><td><b>C16</b></td><td><b>더써드마인드 부산</b>(장현경) / 송정동 철길 옆 작은 숲·송정 바닷가·철길 옆 골목</td><td>야외 활동·놀이(자연스러운 일상·캐주얼, 서퍼 많은 해변)</td><td><b>편안한 재킷·니트·셔츠</b></td><td>확인 불가</td><td>오전 / 늦은 오후 시간대 선호</td><td><a href='https://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&amp;info_id=75835' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>MYWEDDING 기사 1건에서 나온 5건 중 하나</td></tr>
+<tr><td><b>C17</b></td><td><b>세컨플로우</b>(김백천·허수덕) / 부산 보수동 책방 골목·경주 산림환경연구원·경주 대릉원</td><td>도시·거리 산책(빈티지·한국적 감성)</td><td>빈티지 원피스</td><td>확인 불가</td><td>늦은 오후(자연광)</td><td><a href='https://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&amp;info_id=75835' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>MYWEDDING 기사 1건에서 나온 5건 중 하나</td></tr>
+<tr><td><b>C18</b></td><td><b>루브르네프</b>(홍혜전) · <b>로웰 스튜디오</b> · <b>오디너리 독스</b>(염호영) — 매거진 1건에서 3개 스튜디오가 함께 언급됨</td><td>반려동물 동반</td><td>확인 불가</td><td>반려견을 가족 구성원으로 등장시킨 촬영(배우 김정은 &#x27;레트&#x27;·&#x27;스칼렛&#x27;, 손병현·백지선 커플 &#x27;엔젤&#x27;, 로웰 &#x27;길상이&#x27; 사례 언급)</td><td>확인 불가</td><td><a href='https://www.noblesse.com/home/news/magazine/detail.php?no=10361' target='_blank' rel='noopener'>원문 ↗</a><br><span style='font-size:.76rem;color:var(--mut)'>제휴(매거진)</span></td><td><span class='chip c-warn'>확인 필요</span></td><td style='font-size:.8rem'>매거진 1건이 3곳을 함께 소개, 예시는 <b>연예인 촬영</b></td></tr>
+</tbody></table></div>
+<p style="font-size:.85rem;color:var(--mut)">출처 유형은 실제후기 6건(전부 브런치)과 제휴·매거진 12건이다. 스튜디오 공식 홈페이지 출처는 0건 — 문스토리·룩포메이션·온리그래퍼 3곳이 HTTP 403으로 열리지 않았다. C13~C17 5건은 MYWEDDING 기사 1건에서, C09~C12 4건은 플랫폼 상품 목록에서 나왔다.</p>
+</div>
+<h2 id="s5"><span class="no">5</span>촬영 전 봉스튜디오에 확인할 질문</h2>
+<p class="lede">이 조사로는 답을 알 수 없어 남은 것들이다. 6번은 <b>이번 조사에서 발견한 표기 불일치</b>라 반드시 물어야 한다.</p>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>1. 희망 세트의 현재 운영 여부</h4>
+<ol class="q">
+<li>확인한 포트폴리오의 세트 29개 중 지금도 운영 중인 것은 어디까지인가요? (특히 <b>야간</b> 캔들 롱테이블, <b>성벽</b> 그린 플라워 아치, <b>한화</b> 레드·오렌지 컬러 배경)</li>
+<li>샘플 갱신 주기가 어떻게 되나요? 장식 꽃·소품은 시즌마다 바뀌나요?</li>
+<li>촬영 1회에 실내·야외 몇 개 세트를 돌 수 있나요?</li>
+</ol></div>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>2. 계절·우천 대안</h4>
+<ol class="q">
+<li><b>운동장</b> 노을씬은 예약 시간대를 지정할 수 있나요? 일몰 시각에 맞춰 잡아주시나요?</li>
+<li>우천 시 야외(운동장·정원·미니결혼·베일) 대체 세트와 일정 변경 규정은 어떻게 되나요?</li>
+<li>제휴사 페이지에 “날씨나 계절에 따라 촬영 컨셉이 샘플과 달라질 수 있음”이라고 적혀 있는데, 실제로 어느 범위까지 달라지나요?</li>
+</ol></div>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>3. 캐주얼 의상 가능 범위</h4>
+<ol class="q">
+<li>기본 제공은 화이트 드레스 3벌 + 캐주얼 1벌 + 한복 1~2벌로 안내되는데, <b>캐주얼 1벌</b>의 실제 선택 폭은 어느 정도인가요?</li>
+<li>티셔츠·청바지 같은 개인 의상 반입이 가능한가요? 추가 1벌당 10만원 규정이 개인 의상에도 적용되나요?</li>
+<li>야외 세트에서 달리기·춤 같은 동적 포즈가 가능한가요?</li>
+</ol></div>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>4. 소품·동반 인원·추가 비용</h4>
+<ol class="q">
+<li>풍선·피켓(‘Save the Date’)·필름카메라 같은 소품은 스튜디오 제공인가요, 직접 준비인가요?</li>
+<li>개인 소품 반입 범위와 반려동물 동반이 가능한가요?</li>
+<li>동반 인원(가족·친구) 제한과 추가 비용 항목을 전부 알려주세요.</li>
+</ol></div>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>5. 원본 전달 범위</h4>
+<ol class="q">
+<li>촬영 원본(전체 컷) 전달 여부와 보정본 수량은 어떻게 되나요?</li>
+<li>앨범 페이지 수(20p/30p)에 따라 촬영 시간과 세트 수가 달라지나요?</li>
+<li>SNS 사용 가능 범위와 원본 보관 기간을 알려주세요.</li>
+</ol></div>
+<div class="card" style="margin-bottom:12px">
+<h4 style='margin-top:0'>6. 주소·촬영장 확인 (본 조사에서 표기 불일치 발견)</h4>
+<ol class="q">
+<li>공식 홈페이지 푸터는 <code>경기도 하남시 미사동로40번길 124-27</code>, 2024년 12월 언론 기사는 <code>경기도 하남시 미사동 203-7</code>로 적혀 있습니다. <b>현재 촬영장 주소는 어느 쪽인가요?</b> 세트가 이전·증설된 적이 있나요?</li>
+</ol></div>
+<h2 id="s6"><span class="no">6</span>최종 쇼트리스트 (5개)</h2>
+<p class="lede">서로 다른 무드로 5개를 골랐다. 전부 <b>봉스튜디오에서 실제로 확인된 세트</b>이며, ‘타 스튜디오 참고’는 무드 아이디어일 뿐 봉스튜디오에서 되는지는 확인되지 않았다.</p>
+<div class="sl">
+<h3>1. 노을 잔디밭 선셋씬</h3>
+<p class="meta">야외 숲·가든 · 세트 <code>운동장 / 1R1A4429</code></p>
+<p>넓은 잔디밭에서 일몰 하늘을 배경으로 실루엣 전신·워킹·달리기. 확인된 사례 중 가장 ‘영화 같은’ 컷이 나오는 계열.</p>
+<p style="font-size:.86rem"><span class="chip c-warn">확인 필요</span> 일몰 시각 예약 가능 여부 + 우천 대안</p>
+<p style="font-size:.86rem"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6255a5c728297586ae3_%EC%9A%B4%EB%8F%99%EC%9E%A51R1A4429-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p>
+<div class="ref"><b>타 스튜디오 참고 — 봉스튜디오 재현 확인 필요</b><br>C04: 예천 자연공간·한옥·시골길 — 새벽 5시 30분과 오후 4시 30분~일몰만 쓰고 정오를 피하는 시간대 전략</div>
+</div>
+<div class="sl">
+<h3>2. 통창 자연광</h3>
+<p class="meta">자연광·창가 로맨틱 · 세트 <code>통창 / 1R1A2600</code></p>
+<p>전면 통창 앞 바닥 좌식과 역광 전신. 창밖 수목이 함께 담겨 실내인데 초록이 들어온다.</p>
+<p style="font-size:.86rem"><span class="chip c-warn">확인 필요</span> 세트 현재 운영 여부 + 창밖 수목 계절감</p>
+<p style="font-size:.86rem"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b64d93b224e5d85e82b6_%ED%86%B5%EC%B0%BD1R1A2600-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p>
+<div class="ref"><b>타 스튜디오 참고 — 봉스튜디오 재현 확인 필요</b><br>C01: 송파 대여 스튜디오 셀프 촬영 — 서로 옷 바꿔 입기 같은 즉흥 놀이 연출</div>
+</div>
+<div class="sl">
+<h3>3. 순백 미니멀 룸</h3>
+<p class="meta">모던·미니멀 · 세트 <code>갤러리 / 1R1A2013</code></p>
+<p>곡면 화이트 벽과 부드러운 확산광. 드레스를 크게 퍼뜨린 좌식 단독 컷이 이 세트의 대표 구도.</p>
+<p style="font-size:.86rem"><span class="chip c-warn">확인 필요</span> 세트 현재 운영 여부 + 모노톤 의상 범위</p>
+<p style="font-size:.86rem"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b6086ee3926fa22e0212_%EA%B0%A4%EB%9F%AC%EB%A6%AC1R1A2013-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p>
+</div>
+<div class="sl">
+<h3>4. 그린 플라워 아치</h3>
+<p class="meta">플라워·로맨틱 세트 · 세트 <code>성벽 / 1R1A9017</code></p>
+<p>화이트 아치에 그린 폴리지와 흰 릴리를 대형으로 세팅. 이름은 ‘성벽’이지만 실제로 보이는 것은 꽃 아치다.</p>
+<p style="font-size:.86rem"><span class="chip c-warn">확인 필요</span> 장식 꽃 시즌 교체 여부 (샘플과 달라질 수 있음)</p>
+<p style="font-size:.86rem"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b61570408da64b82c4d7_%EC%84%B1%EB%B2%BD1R1A9017-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p>
+</div>
+<div class="sl">
+<h3>5. 잔디밭 풍선 놀이</h3>
+<p class="meta">캐주얼·라이프스타일 · 세트 <code>하트 / GYU_1344</code></p>
+<p>잔디밭에서 대형 레드 하트 풍선을 들고 장난치는 컷. 드레스를 입지만 상호작용이 주인공이다.</p>
+<p style="font-size:.86rem"><span class="chip c-warn">확인 필요</span> 캐주얼 의상 허용 범위 + 소품 제공 여부</p>
+<p style="font-size:.86rem"><a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b7c1bbab85878b22664e_%ED%95%98%ED%8A%B8GYU_1344-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p>
+<div class="ref"><b>타 스튜디오 참고 — 봉스튜디오 재현 확인 필요</b><br>C16: 부산 송정 철길 옆 숲·바닷가 — 편안한 재킷·니트·셔츠, 오전 또는 늦은 오후</div>
+</div>
+<div class="note w"><p><b>쇼트리스트에 넣지 않은 것 — 클래식·엔틱(<code>야간</code> 캔들 롱테이블).</b> 분위기는 확실하지만 확인된 컷이 5장(세션 3건)뿐이고 전부 같은 세트다. §5의 세트 운영 여부를 확인한 뒤 대안으로 고려하는 편이 안전하다. <a href="https://cdn.prod.website-files.com/66a1eeaa00f1c86c3dbae974/6a44b625abe712ac1a43e196_%EC%95%BC%EA%B0%841R1A0277-1%5B%EA%BE%B8%EB%AF%B8%EA%B8%B0%5D.avif" target="_blank" rel="noopener">원본 사진 열기 ↗</a></p></div>
+<footer>
+<p><b>출처</b> · 공식: <a href="http://studiobong.com/" target="_blank" rel="noopener">studiobong.com</a> (푸터에 <code>경기도 하남시 미사동로40번길 124-27</code>) · 제휴: <a href="https://www.directwedding.co.kr/studio/bong" target="_blank" rel="noopener">다이렉트결혼준비</a> (“하남 미사리에 위치한 세트장”) · 언론: <a href="https://www.wedding21.co.kr/news/articleView.html?idxno=302097" target="_blank" rel="noopener">웨딩21 2024-12-04</a> (<code>하남시 미사동 203-7</code>) · 제휴: <a href="https://weddingcrowd.kr/store/view.php?idx=281" target="_blank" rel="noopener">웨딩크라우드</a> (“2012년 미사리에 오픈”, 후기 14건 표기)</p>
+<p>검증 근거는 <code>research/t4_validation.md</code>, 수집 원자료는 <code>research/t2_bongstudio.md</code>(봉스튜디오)와 <code>research/t3_casual.md</code>(타 스튜디오 캐주얼)에 있다. 미리보기 사진의 저작권은 각 출처에 있으며 원본 링크를 함께 표기했다.</p>
+</footer>
+</div></body></html>
