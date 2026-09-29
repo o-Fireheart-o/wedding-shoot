@@ -60,7 +60,20 @@ def pdate(p):
     return f"{m.group(1)}.{int(m.group(2)):02d}" if m else ""
 
 
+def clean_what(t):
+    """에이전트 메모(블로거 아이디, 번호, 추가금X 등)를 걷어내고 읽기 쉬운 설명만 남긴다."""
+    t = t or ""
+    picked = bool(re.search(r"\((?=[^)]*(선택|pick))[^)]*\)", t))
+    t = re.sub(r"\s*\([^)]*\)", "", t)
+    t = re.sub(r"^피팅룸 전신\s*-\s*", "피팅룸에서 입은 모습, ", t)
+    t = re.sub(r"^피팅룸 전신$", "피팅룸에서 입은 모습", t)
+    t = re.sub(r"^촬영 컷\s*-\s*", "촬영 사진, ", t)
+    t = re.sub(r"\s*-\s*", ", ", t)
+    return t + (" · 이 신부가 고른 드레스" if picked else "")
+
+
 def blog_photo(p):
+    p = dict(p, what=clean_what(p.get("what")))
     used_posts[p["post"]] = p.get("blog_title") or posts.get(p["post"], {}).get("title", "")
     img = p["img"].split("?")[0] + "?type=w773"
     who = blog_id(p["post"])
@@ -236,6 +249,7 @@ FACTS = [
 out = []
 w = out.append
 n_in = len(indoor["sets"]); n_out = len(outdoor["scenes"])
+cnt = {a: sum(1 for x in indoor["sets"] if x.get("area", "기타") == a) for a in ("1세트장", "2세트장", "기타")}
 n_dress = sum(len(k) for _, _, k in TIERS)
 w(f"""<!DOCTYPE html>
 <html lang="ko"><head><meta charset="utf-8">
@@ -249,8 +263,8 @@ w(f"""<!DOCTYPE html>
 <div class="wrap">
 
 <div class="grid2">
-<div class="card"><p class="k">실내 배경</p><p class="v">{n_in}곳</p><p class="n">1세트장에서 대부분 찍고, 2세트장은 주로 준비 공간</p></div>
-<div class="card"><p class="k">야외 배경</p><p class="v">{n_out}곳</p><p class="n">걸어서 3분 거리 미사경정공원과 스튜디오 마당</p></div>
+<div class="card"><p class="k">스튜디오 안 배경</p><p class="v">{n_in}곳</p><p class="n">1세트장 {cnt["1세트장"]}곳 · 2세트장 {cnt["2세트장"]}곳 · 마당 {cnt["기타"]}곳</p></div>
+<div class="card"><p class="k">공원 야외 배경</p><p class="v">{n_out}곳</p><p class="n">걸어서 3분 거리인 미사경정공원</p></div>
 <div class="card"><p class="k">후기에 나온 드레스</p><p class="v">{n_dress}종</p><p class="n">기본 3벌 + 캐주얼 1벌, 추가금 드레스는 대부분 22만원</p></div>
 </div>
 
@@ -259,7 +273,7 @@ w(f"""<!DOCTYPE html>
 <div class="note w"><p><b>보기 전에</b></p>
 <p>봉스튜디오는 2024년에 세트를 새로 꾸몄어요. 그래서 사진은 2024년 이후 후기 위주로 골랐고, 스튜디오 샘플 사진 중에는 예전 세트가 섞여 있을 수 있어요. 꽃 장식과 드레스도 자주 바뀌니까 꼭 찍고 싶은 배경이나 드레스는 상담 때 사진을 보여 주고 확인해 보세요.</p></div>
 
-<h2><span class="no">1</span>실내 배경</h2>
+<h2><span class="no">1</span>스튜디오 안 배경</h2>
 <p class="lede">제목은 배경 생김새대로 붙였어요. 후기에서 부르는 이름은 제목 바로 아래에 있어요.</p>
 <div class="toc">""")
 AREAS = ["1세트장", "2세트장", "기타"]
@@ -270,12 +284,12 @@ for area in AREAS:
     ss = [s for s in indoor["sets"] if s.get("area", "기타") == area]
     if not ss:
         continue
-    label = {"1세트장": "1세트장 (메인 촬영장)", "2세트장": "2세트장 (준비 공간 겸 배경)", "기타": "그 밖의 공간"}[area]
+    label = {"1세트장": "1세트장 (메인 촬영장)", "2세트장": "2세트장 (준비 공간 겸 배경)", "기타": "스튜디오 마당"}[area]
     w(f'<h3>{label}</h3>')
     for s in ss:
         set_card(s, f'in-{s["key"]}')
 
-w("""<h2><span class="no">2</span>야외 배경</h2>
+w("""<h2><span class="no">2</span>공원 야외 배경</h2>
 <p class="lede">계절과 날씨에 따라 가장 많이 달라지는 곳이에요. 사진 아래에 찍은 달을 적어 뒀어요.</p>
 <div class="toc">""")
 for s in outdoor["scenes"]:
