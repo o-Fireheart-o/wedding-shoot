@@ -1,0 +1,623 @@
+{
+ "styles": [
+  {
+   "key": "low_bun",
+   "name_ko": "로우번 · 가시번 · 미들번",
+   "look": "뒤통수 낮은 곳에 머리를 둥글게 말아 올린 스타일이에요. 번을 일부러 헝클어 가닥을 살리면 가시번, 조금 더 높게 올리면 미들번이라고 불러요.",
+   "pairs_with": "슬림 드레스, A라인 심플 드레스, 머메이드 드레스와 가장 많이 짝지었어요. 네이비나 블랙 드레스로 어두운 호텔 복도나 검은 벽 배경에서 찍은 후기도 있고, 베일을 쓰고 야외 숲길까지 이 머리로 나간 경우가 많았어요.",
+   "review": "유지력 칭찬이 가장 많은 머리예요. 로우 가시번으로 야외를 뛰어다니고 베일을 몇 번 끼웠다 빼도 저녁 뒤풀이 때까지 번과 잔머리가 그대로였다는 후기가 있어요. 볼살이 통통해서 걱정했는데 오히려 얼굴이 슬림하고 청순해 보였다는 후기도 있고, 둥근 얼굴은 헤어밴드를 더해 시선을 분산했다는 경우도 있어요. 숱이 많으면 헤어피스를 떼고 본인 머리로만 번을 만들어서 붙인 피스가 일회용이 되기도 해요. 스튜디오 헤메샵에서는 진주핀, 조화, 생화를 알아서 꽂아주는 경우가 많았어요. 헬퍼 이모님들도 번은 대부분 해줄 수 있는 기본 변형이라는 이야기가 있어요. 반대로 세 번째 머리를 로우번으로 했다가 나한테 어울리는지 확신이 없어 포니테일로 할 걸 그랬다는 아쉬움도 있었어요. 본식 헤어를 로우번으로 정하는 계기가 됐다는 후기도 여럿이에요.",
+   "mention_count": 20,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA2MjlfNjkg/MDAxNzgyNzEzMTE4MzE0.VJsNIPhXmcnmLWc3hTQ56PvTzFqwlYXa9A3xplFxcgUg.AHf0tfLxpaeKlTFnkhnW2hHQEx4tJRirv-lcBCoH1CAg.JPEG/output%EF%BC%BF824521186.jpg",
+     "post": "https://blog.naver.com/kry09322/224333907144",
+     "blog_title": "᧔ 하남 봉스튜디오 메이크업 ᧓ 03. 신부 헤어 로우 가시번 + 진주 구슬",
+     "date": "2026-07-03",
+     "what": "로우 가시번 옆모습, 번 주위에 진주 구슬을 꽂았어요"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA5MTFfMTIx/MDAxNzU3NTY2MjkxMzM4.fZrBWbhpGLfuDL8g0vjkqCcZeRlVB0YTwFO-IZwA1lAg.-fWhJjGK3fvEK4uzvuio5LldlE4m8hOpzgh5kks43ocg.JPEG/900%EF%BC%BFP20250827%EF%BC%BF163228900%EF%BC%BFD7D24B36%EF%BC%8DC268%EF%BC%8D4737%EF%BC%8DBB70%EF%BC%8D126096A09C15.jpg",
+     "post": "https://blog.naver.com/jjjaldnj/224004180777",
+     "blog_title": "[결혼준비일기21] 하남 봉스튜디오 신랑,신부 헤어메이크업, 헤어변형 솔직후기",
+     "date": "2025-09-11",
+     "what": "촬영 중 뒷모습, 잔머리를 남긴 가시번과 진주 장식이 보여요"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA1MTlfMjE4/MDAxNzE2MTE0Mjk1ODAy.Vne9empl-jQkriPRM6rRZ9EmWveRf4Qj-AcCiVKzNL0g.W2-a_QI4G0RqHOX9GzoR67f7tGCoy6kyJxXQshl74kEg.JPEG/20240430%EF%BC%BF123421.jpg",
+     "post": "https://blog.naver.com/onse3840/223455840121",
+     "blog_title": "[Chapter 5-4] (토탈)봉 스튜디오_촬영 헤어 (외부 헤어 변형 X)",
+     "date": "2024-05-23",
+     "what": "헤메실에서 가시번을 고정하는 중인 뒷모습 클로즈업"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjAzMTFfMTM1/MDAxNzczMTk1NDMwNDYy.4L-WGBKTJgUskt4CFzNmdCIEqVLnDn2cXTykub19MiAg.RnzEZdESugYeK0GJDTi7ZBkTqRQylbDy2zWpRajOAmsg.JPEG/900%EF%BC%BF20260308%EF%BC%BF161051.jpg",
+     "post": "https://blog.naver.com/sensitive_hye/224213788110",
+     "blog_title": "봉스튜디오 토탈 촬영 헤메 후기 | 드레스 7벌 입어본 후기 + 헤어변형 솔직 후기",
+     "date": "2026-03-12",
+     "what": "로우번 뒤에 조화 장식을 꽂은 모습"
+    }
+   ]
+  },
+  {
+   "key": "high_bun",
+   "name_ko": "하이번 · 가시 하이번",
+   "look": "정수리 가까이 높은 곳에서 머리를 동그랗게 묶어 올린 스타일이에요.",
+   "pairs_with": "유색 드레스(초록, 핑크)와 조개탑 A라인 드레스, 머메이드 오프숄더 드레스에 많이 했어요. 발랄한 컨셉이나 야외, 야간 촬영의 마지막 머리로 고른 경우가 많아요.",
+   "review": "깔끔하면서도 귀엽다는 평이 많아요. 잘 어울릴지 걱정했는데 두상을 새로 만들어줬다는 후기, 앞머리를 뽀글뽀글하게 살려 컨셉을 잘 맞춰줬다는 후기가 있어요. 키가 큰 편이면 더 커 보인다는 주의 의견이 있어요. 흔한 하이번 대신 잔머리와 볼륨을 살린 가시 하이번으로 트렌디한 느낌을 냈다는 후기도 있어요. 꽉 묶은 하이번 뒤에는 묶음 자국이 남아서 다음 머리로 넘어갈 때 고데기로 다시 풀어야 했다는 이야기도 있어요.",
+   "mention_count": 6,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjAxMTlfMTEy/MDAxNzY4ODI2MDAyMDQy.TYgnYnLqRRdk5ouNf0BJ9hYf9j7noVU7m0YINoYKCO8g.1152aP8ZWMg3AxdMWFiBlaonXczdxIkeibgG4IE30LYg.JPEG/output%EF%BC%BF329354801.jpg",
+     "post": "https://blog.naver.com/afterrain21/224154247085",
+     "blog_title": "w10 봉스튜디오 헤어 메이크업 내부 헤어변형 후기",
+     "date": "2026-01-21",
+     "what": "초록 유색 드레스에 하이번과 생화 장식을 더한 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDExMTBfMTMy/MDAxNzMxMjQ0Mjk0Mzg3.F044ZR_JsWsQzF95XMBlS1zHUe5LdwcaIOQlaTM0Q9wg.t_8Hp2B4IucXj_R8m_KunuX6opTShn6dWCJzoL6vmAAg.PNG/SE-031bf569-172d-4fe6-895d-bbba170f11b2.png",
+     "post": "https://blog.naver.com/moren22/223654939729",
+     "blog_title": "봉스튜디오 촬영 엘루스제이 헤어변형 후기 추천!",
+     "date": "2024-11-10",
+     "what": "하이번 옆모습, 앞머리를 살짝 내린 형태예요"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjJfNzkg/MDAxNzYxMTM4NzE0Njgx.1sp0JPb9S8_izQpkir4WJWSgnc-7eqBKtEso0sqIQhsg.nw3Dg8z23OmmbZIruT57cCe7y9GkBuEvt2ZI5WUv30wg.JPEG/900%EF%BC%BF1761083337271.jpg",
+     "post": "https://blog.naver.com/piglet_adv/224050704763",
+     "blog_title": "봉스튜디오 웨딩 촬영, 헤어 변형은 선택 아닌 필수! 엘루스제이 내돈내산 후기.",
+     "date": "2025-10-23",
+     "what": "핑크 유색 드레스에 잔머리를 살린 가시 하이번"
+    }
+   ]
+  },
+  {
+   "key": "ponytail",
+   "name_ko": "포니테일 (로우 · 하이)",
+   "look": "머리를 한데 모아 목덜미 쪽(로우)이나 뒤통수 위쪽(하이)에서 하나로 묶어 늘어뜨린 스타일이에요.",
+   "pairs_with": "로우 포니테일은 슬림 드레스, A라인 심플 드레스, 블랙 드레스와 개인 캐주얼룩에 많이 했어요. 하이 포니테일은 검정 원피스나 캐주얼룩처럼 상큼한 컷에 주로 골랐어요. 묶는 끈 자리에 흰 리본, 검정 리본, 안개꽃을 더한 경우가 많아요.",
+   "review": "리본만 더해도 분위기가 확 산다는 후기가 많고, 직접 준비한 사진 몇 장만 보여줬는데 리본 포인트를 알아서 넣어줘서 부케와 짝꿍 머리가 됐다는 후기도 있어요. 넓은 등을 조금 가려줘서 좋았다는 의견, 청첩장 사진으로 뽑혔다는 후기도 있어요. 로우 포니테일은 조금 더 낮게 묶었으면 더 예뻤을 거라는 아쉬움이 있었어요. 헤어피스를 붙인 경우에는 피스가 드러나서 하이 포니테일이 어렵다고 해서 로우로 바꾼 사례가 있어요. 포니테일은 헬퍼 이모님이 묶어주는 경우도 많아서 스튜디오 변형 횟수를 아끼려고 이모님께 부탁한 후기도 있어요.",
+   "mention_count": 18,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjlfMjEx/MDAxNzYxNjY1ODcwMTgz.gdAJb53GNrmuGQBMQ2ePdMQLlSckT-EU9rDxeV0zFAgg.YRakqmIicNjpyW8miZ1vePIPoSnIy_pM8BzFz7UsyD8g.JPEG/SE-56165df3-9f18-44d6-9dbe-aae066fd3094.jpg",
+     "post": "https://blog.naver.com/seoriniiiii/224057138759",
+     "blog_title": "하남 봉스튜디오ㅣ헤어 메이크업 내돈내산 솔직 후기 장점 아쉬운 점 및 꿀팁",
+     "date": "2025-10-29",
+     "what": "로우 포니테일 뒷모습, 흰 리본을 길게 늘어뜨렸어요"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA1MjJfNzQg/MDAxNzE2MzQzODY5OTc1.P8brEgvJuyQ1c-J23XQLnMkGP1FyoC2N5F3__GR8J18g.fUsIWDztj0JgHXcD0uGgxXID4rUIiWHZ12kWYOaN2Qkg.JPEG/SE-a545ad2c-464a-437f-9a1c-cf3724f720d2.jpg",
+     "post": "https://blog.naver.com/onse3840/223455840121",
+     "blog_title": "[Chapter 5-4] (토탈)봉 스튜디오_촬영 헤어 (외부 헤어 변형 X)",
+     "date": "2024-05-23",
+     "what": "블랙 드레스에 로우 포니테일과 큰 검정 리본"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMTRfMTAg/MDAxNzYzMTA0NDI3ODMw.HdSF6Az7W6G6xuIHsRv-fYZdOsDni1EYxLU4TWyXNOAg.chPrYSQMEPgnN1J-NB1cjkHAeMQ4iMfGlpGZGpldLQkg.JPEG/900%EF%BC%BF20251107%EF%BC%BF121038.jpg",
+     "post": "https://blog.naver.com/anstjdnjs10/224107894286",
+     "blog_title": "[엘루스제이] 후회없는 봉스튜디오 하남 헤어변형 추천 후기",
+     "date": "2025-12-13",
+     "what": "로우 포니테일에 안개꽃을 흩뿌리듯 꽂은 뒷모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTAyMDFfMjY0/MDAxNzM4MzM5NTg1NzI1.pMRBxuLIZTWKDJhU4edM_fGb3FtIqMoTBPA5lKEwpxIg.nSBwnXMUMAiGwdn2mcoDRh_YfEfpOFhG7ocHjhMESg4g.JPEG/KakaoTalk_20250131_211019308_08.jpg",
+     "post": "https://blog.naver.com/hellogani/223743851006",
+     "blog_title": "바이서헤어변형 내돈내산 후기 (봉스튜디오)",
+     "date": "2025-02-01",
+     "what": "검정 원피스에 하이 포니테일, 앞머리와 잔머리를 살렸어요"
+    }
+   ]
+  },
+  {
+   "key": "half_up",
+   "name_ko": "반묶음 (하이 · 로우 · 가시번 반묶음)",
+   "look": "윗머리만 뒤로 모아 묶고 나머지는 웨이브로 풀어 내린 스타일이에요. 묶은 부분을 작은 번으로 말면 가시번 반묶음이 돼요.",
+   "pairs_with": "첫 드레스인 풍성 드레스, A라인 드레스, 블랙 드레스와 많이 짝지었어요. 첫 머리를 웨이브 대신 반묶음으로 시작한 경우도 여럿이고, 흰 리본이나 머리띠, 베일을 함께 쓴 후기가 많아요.",
+   "review": "봉스튜디오는 반묶음 맛집이라는 말이 있을 만큼 만족 후기가 많아요. 하이 반묶음은 통통 튀고 귀여운 분위기가 나고, 정수리 볼륨을 확실히 띄워줘서 베일을 몇 번 꽂았다 빼도 흐트러지지 않았다고 해요. 반묶음이 안 어울린다거나 장군처럼 보일까 걱정했던 신부들이 결과를 보고 가장 마음에 들었다고 한 경우가 많아요. 머리가 짧은 중단발은 피스를 붙인 부분과 차이가 나서 푼 머리보다 반묶음을 추천받았다는 후기도 있어요. 셀렉한 사진 중 반묶음 컷이 가장 많았다는 후기도 있어요.",
+   "mention_count": 18,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA2MjlfMSAg/MDAxNzgyNzEyOTE3NTcx.SP6scucRcmysYNYE8XuPOSQROfnXLuAJ-_n9zRIfVWQg.cszVYoQ_ULjnQG5nh7UwEVL6Czxn66dFD26XpaecxrEg.JPEG/output%EF%BC%BF531456320.jpg",
+     "post": "https://blog.naver.com/kry09322/224331721423",
+     "blog_title": "᧔ 하남 봉스튜디오 메이크업 ᧓ 2. 신부 헤어 하이 반묶음 + 화이트 리본",
+     "date": "2026-07-02",
+     "what": "하이 반묶음에 흰 리본을 단 옆모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA4MDlfNSAg/MDAxNzU0NzQ2NjgzNTI4.FUr6OxBn4N_m0JkNcQl_iGCCHIW_dYjE4_-qw0wMWzcg.SUBoFDIaOK5Q_wceWMhIyCtSsN_JMAot2lO8rnOw4UMg.JPEG/SE-26E804E3-1F3B-42DC-83FD-1E7656D709FD.jpg",
+     "post": "https://blog.naver.com/rkdus457/223965022200",
+     "blog_title": "봉스튜디오 토탈촬영 후기: 헤어변형 과정부터 결과물까지 꿀팁",
+     "date": "2025-08-09",
+     "what": "헤메실에서 본 반묶음 뒷모습, 가시번 위에 흰 리본을 달았어요"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEyMDFfMjYy/MDAxNzY0NTk4MTM4NjM3.BrVYpLIGB5z-SrWW7Gz6kViiJEihTrGfNvOKD6O20GEg.nZiln1t6Ut9aiQeTLerneTrOuvlSIPBsAJarFrQCvqYg.JPEG/SE-660de48f-a9d5-11f0-b669-ad9e58742c27.jpg",
+     "post": "https://blog.naver.com/ohtoring/224097328048",
+     "blog_title": "봉스튜디오 웨딩촬영 후기 (배경 모음 + 내부 헤어변형 추가)",
+     "date": "2025-12-03",
+     "what": "반묶음 뒷부분을 꼬아 포인트를 준 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTAyMDFfMjcw/MDAxNzM4MzM4Nzk4Mjg0.hoNYb4QQKMoZo6SjvuPt_OmbRaJ_CEZ0MF10ZcKkohQg.On69v1y4YFGhsgC2CcskZ1y2aybl8NR9-DMoQ6blVL8g.JPEG/KakaoTalk_20250131_211019308_03.jpg",
+     "post": "https://blog.naver.com/hellogani/223743851006",
+     "blog_title": "바이서헤어변형 내돈내산 후기 (봉스튜디오)",
+     "date": "2025-02-01",
+     "what": "가시번 반묶음으로 촬영한 커플컷"
+    }
+   ]
+  },
+  {
+   "key": "braid_pigtail",
+   "name_ko": "땋은 머리 · 양갈래",
+   "look": "한쪽으로 느슨하게 땋아 내리거나, 양쪽으로 나눠 땋거나 낮게 번을 두 개 만든 사랑스러운 스타일이에요.",
+   "pairs_with": "노랑, 핑크, 살구색 같은 유색 드레스와 가장 잘 어울렸다는 후기가 많아요. 양갈래는 야외 촬영이나 자율복, 캐주얼룩에 많이 했어요. 땋은 사이사이에 생화나 부케 남은 잔꽃을 꽂은 경우가 많아요.",
+   "review": "하고 싶었던 위시리스트 머리였고 가장 마음에 들었다는 후기가 여럿이에요. 친구들 반응이 가장 좋았던 헤어 조합이었다는 후기도 있어요. 얼굴이 동그란 편이면 양갈래가 너무 어려 보일 수 있어서 한쪽 땋은 머리를 추천받았다는 이야기가 있어요. 양갈래 번은 앞모습에서 잘 안 보인다는 조언을 들었고, 촬영본을 보니 땋은 머리로 할 걸 그랬다는 아쉬움도 있었어요. 양갈래 땋기는 변형 시간이 가장 오래 걸리지만 야외에서 뛰어다녀도 한 올도 풀리지 않았다고 해요.",
+   "mention_count": 9,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEyMDNfMjUg/MDAxNzY0NzY4NTY3NTIy.jCyWR01c0bTmp3XRxJTlBfjbE2iUGFjaXCXSC8vsr4Eg.UYhBGczczAyLpr3pQ5SUdAcrKpWwa-MAdza4SGX4kewg.JPEG/SE-87632db6-b0d6-44b5-8ee5-e9874a9b25b0.jpg",
+     "post": "https://blog.naver.com/ohtoring/224097328048",
+     "blog_title": "봉스튜디오 웨딩촬영 후기 (배경 모음 + 내부 헤어변형 추가)",
+     "date": "2025-12-03",
+     "what": "핑크 유색 드레스에 생화를 꽂은 한쪽 땋은 머리"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDVfMTQ2/MDAxNzQ5MDg0OTk3NTMy.reijDtC93PipKah_DueCyJX_SFN5YP1zhn4U9MKOyDQg.vIctypqWjWtR5TLEL18rzcyoLfqLCceDuppAiQ7jw64g.JPEG/SE-4B7286B8-44B0-4088-82E0-D96D272318DF.jpg",
+     "post": "https://blog.naver.com/9461so2/223889472263",
+     "blog_title": "W15. 하남 추가금 없는 헤어변형 서아룸 내돈내산 대만족 봉스튜디오 촬영 후기",
+     "date": "2025-06-05",
+     "what": "노랑 유색 드레스에 마가렛 생화를 꽂은 땋은 머리"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MTFfMjY3/MDAxNzg5MDY5ODcwNDgy.Kwq-dCPQhXvOBKjp2dUtr1X1YXOYuYNV8bksEq7b90Ig.z36Kb54QwAj3zQJENG9j0xjta6itwYaHsG7Teg8P7n0g.JPEG/IMG%EF%BC%BF3551.jpg",
+     "post": "https://blog.naver.com/yeonn0918/224409361716",
+     "blog_title": "[내돈내산] 하남 봉스튜디오 출장 헤어변형 후기 / 숨고 수림 헤어변형 (신부 변형 무제한+ 신랑 변형 1회)",
+     "date": "2026-09-12",
+     "what": "한쪽으로 땋아 내린 머리의 뒷모습 클로즈업"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMTNfMTU0/MDAxNzYwMzQ2MDgxMzMx.mnZO8cFAIyfnMVUqanr3INW5Po9FFlzUCmlfrp5Nls0g.10Lo2zMkVplFfxfKcGJwJquYdJKPD658RH5NYsrKkc0g.JPEG/SE-2e5d9f6a-cb7b-4d34-aae9-742662ae5a41.jpg",
+     "post": "https://blog.naver.com/capybara_go/224039884649",
+     "blog_title": "하남봉스튜디오 - 헤어변형 추천 / 제이웨딩",
+     "date": "2025-10-13",
+     "what": "야외 촬영용 양갈래 번 뒷모습"
+    }
+   ]
+  },
+  {
+   "key": "wave",
+   "name_ko": "굵은 웨이브 풀어내림",
+   "look": "봉고데기로 굵게 컬을 넣어 어깨 아래로 자연스럽게 풀어 내린 스타일이에요.",
+   "pairs_with": "대부분 첫 번째 드레스인 풍성 드레스, 실크 드레스와 함께 했어요. 첫 드레스로 가장 오래 촬영하기 때문에 가장 많은 컷이 이 머리로 남아요.",
+   "review": "거의 모든 후기에서 첫 머리로 등장해요. 숱이 얇아도 뿌리 볼륨을 띄우고 피스를 더하면 풍성하게 나온다는 후기가 많고, 촬영 시간이 한참 지나도 볼륨이 살아 있었다고 해요. 반대로 스프레이 양이 많아 꾸민 느낌이 강하니 가닥이 살아 있는 자연스러운 웨이브를 원하면 미리 구체적으로 말하라는 의견이 있어요. 소라빵처럼 말린 머리는 싫다고 여러 번 말했더니 판고데기 같은 자연스러운 웨이브로 해줬다는 후기도 있어요. 모발이 얇은 신부는 드레스를 입고 벗는 사이 웨이브가 거의 풀렸다는 후기가 여럿이고, 뿌리 쪽이 접힌 느낌이 나서 아쉬웠다는 의견도 있어요. 웨이브는 한쪽은 앞으로, 한쪽은 뒤로 넘기면 예쁘고 귀를 드러내면 답답해 보이지 않는다는 팁도 있어요.",
+   "mention_count": 25,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjAxMTlfMjE0/MDAxNzY4ODI1OTE4MzE4.sVBobbGavS27nmjUidy-RQeGXqwkblN-VvobwnGCJK0g.6oALSwWq6qvUiGTKLF-7MZBK2lwYCOQgT0QHmXTaWHgg.JPEG/output%EF%BC%BF3374063583.jpg",
+     "post": "https://blog.naver.com/afterrain21/224154247085",
+     "blog_title": "w10 봉스튜디오 헤어 메이크업 내부 헤어변형 후기",
+     "date": "2026-01-21",
+     "what": "결이 살아 있는 굵은 웨이브 뒷모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMjVfMTgw/MDAxNzY0MDU5MDA1OTU2.f2wSTuuo9iu6Qht3x3LXiZj2rHrmR_1HSG72Ybu1K9Ag.XSXjkLRAYO7-2-g8wtdxcSGUoSZHtZ3YAE3KNywtNykg.JPEG/SE-26292CE1-FB85-4A43-A27E-0D82B87445B3.jpg",
+     "post": "https://blog.naver.com/jin68918/224089097094",
+     "blog_title": "봉스튜디오 웨딩 촬영 헤어 굵은 웨이브",
+     "date": "2025-11-28",
+     "what": "풍성 드레스에 굵은 웨이브를 풀어 내린 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjlfMjMz/MDAxNzYxNjY1ODU5MTIz.LZY1bDCVA3-ulpuXG8KIyy8sAChjBKflXDCdhn3FS0kg.F8aEJwlHeaIH1iqMI35MGfi4V1f-VeFbWsLzOOh_po8g.JPEG/SE-d3e8622b-0890-48bf-b582-ec5c820e3203.jpg",
+     "post": "https://blog.naver.com/seoriniiiii/224057138759",
+     "blog_title": "하남 봉스튜디오ㅣ헤어 메이크업 내돈내산 솔직 후기 장점 아쉬운 점 및 꿀팁",
+     "date": "2025-10-29",
+     "what": "봉고데기로 한 가닥씩 넣은 굵은 웨이브 결과물"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDlfMTEy/MDAxNzgzNTc5NTQwMDAy.QWQ-zJG6CBi6raqy0cDRdeKPtVLN-irY6GGScC1HnLgg.G4XXPmV0NJqqr__S9O2uG6K-jcyPK8azWwn_qTZreq8g.JPEG/output%EF%BC%BF3913099624.jpg",
+     "post": "https://blog.naver.com/kry09322/224346199799",
+     "blog_title": "᧔ 하남 봉스튜디오 메이크업 ᧓ 05. 신부 촬영 헤어 유지력",
+     "date": "2026-07-19",
+     "what": "헤어피스를 붙인 굵은 웨이브, 뿌리 볼륨이 살아 있어요"
+    }
+   ]
+  },
+  {
+   "key": "straight",
+   "name_ko": "긴 생머리 · 슬릭 생머리",
+   "look": "웨이브 없이 머리를 곧게 쫙 펴서 내린 스타일이에요. 깻잎 앞머리나 리본을 더해 분위기를 바꾸기도 해요.",
+   "pairs_with": "블랙 드레스, 캐주얼 드레스, 슬림 드레스와 짝지은 경우가 많고 베일 컷이나 흑백 컷과도 잘 맞았다는 후기가 있어요. 보통 촬영 막바지 머리로 넣어요.",
+   "review": "신랑이 의외로 이 머리가 가장 예뻤다고 했다는 후기, 친구들 반응이 가장 좋았다는 후기가 있어요. 웨이브를 한 뒤에도 물을 뿌려 쫙 펴주기 때문에 순서 걱정은 없다고 해요. 헬퍼 이모님은 고데기 같은 열기구를 쓰는 머리는 해줄 수 없어서 생머리를 하려고 헤어변형을 신청했다는 후기가 있어요. 평소 펌이나 머리 정리를 오래 안 해서 생머리가 깔끔하게 나오지 않았다는 아쉬움도 있으니 미리 다듬고 가는 게 좋아요. 슬릭 생머리는 스프레이로 단단히 고정해서 베일이나 바람에도 흐트러지지 않았다고 해요.",
+   "mention_count": 5,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMjZfMjc5/MDAxNzY0MTYyMTU2MTQ2.iYZeOiLaqHb6AmbIaRAbs3qsPi4chSoY1Hb58lB5aRUg.wk8rHy9R9kbPoaXcPoos2cOxzrSvMsNes_miUg3VV5cg.JPEG/SE-894F252D-B498-4C0E-AAE8-52DF45505E1F.jpg",
+     "post": "https://blog.naver.com/jin68918/224096647339",
+     "blog_title": "봉스튜디오 웨딩 촬영 신부 헤어스타일 긴생머리",
+     "date": "2025-12-04",
+     "what": "블랙 드레스에 긴 생머리를 내린 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTAyMDFfMTI4/MDAxNzM4MzM5NDE0MDQ1.QUFR5MsER4SPw-QbJYkDsbEWfrK6THhmF_WgNUpaG0Yg.RA4UkoJNRbRkIrllKF303XJOcKdImW-WnksXe4l5_Bsg.JPEG/KakaoTalk_20250131_211019308_06.jpg",
+     "post": "https://blog.naver.com/hellogani/223743851006",
+     "blog_title": "바이서헤어변형 내돈내산 후기 (봉스튜디오)",
+     "date": "2025-02-01",
+     "what": "깻잎 앞머리 생머리에 작은 리본을 단 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjJfMTkz/MDAxNzYxMDg2OTQ5NDI2.5ANlR6Mu65adBtFchaLwpXVLevey5kX_G_3hgOCgr1Qg.4pGRMhk8t3yDN51p6rZAPe90iBHS61ySO7V8OS-jH4Eg.JPEG/900%EF%BC%BF1761083324204.jpg",
+     "post": "https://blog.naver.com/piglet_adv/224050704763",
+     "blog_title": "봉스튜디오 웨딩 촬영, 헤어 변형은 선택 아닌 필수! 엘루스제이 내돈내산 후기.",
+     "date": "2025-10-23",
+     "what": "슬릭 생머리로 대문 앞에서 찍은 커플컷"
+    }
+   ]
+  },
+  {
+   "key": "short",
+   "name_ko": "단발 · 중단발 스타일링",
+   "look": "단발 그대로 드라이해서 내리거나, 헤어피스를 붙여 긴 머리처럼 연출하는 방식이에요.",
+   "pairs_with": "단발 생머리는 블랙 드레스나 마지막 캐주얼 컷에, 피스를 붙인 긴 머리는 첫 풍성 드레스에 많이 했어요.",
+   "review": "단발로도 긴 머리로도 찍고 싶다면 스튜디오 헤메샵에서 처음부터 피스를 붙이고 시작하라는 조언이 있어요. 촬영 중간에 피스를 붙이면 시간이 훨씬 오래 걸리기 때문이에요. 마지막에 피스를 떼고 원래 단발로 돌아와 찍으면 한 번의 촬영에서 두 가지 길이를 다 남길 수 있어요. 중단발은 피스를 붙인 부분과 기장 차이가 나서 푼 머리보다 반묶음을 추천받은 경우가 있고, 피스 때문에 하이 포니테일은 어렵다는 이야기를 들은 후기도 있어요. 피스 티가 전혀 안 났다는 후기가 대부분이에요.",
+   "mention_count": 3,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjZfMjYz/MDAxNzYxNDYzMjA4NjIy.OQAvssLinGg8idmJIbCTNyxWGXVTQNkuzF87QJ61lykg.bsQ1Pqu3HWXG6rqj2xf5p5jj8JCDpJaCqh489FHUAZ0g.JPEG/KakaoTalk_20251026_161825103.jpg",
+     "post": "https://blog.naver.com/cksal9614/224054313620",
+     "blog_title": "[wedding기록] 내돈내산 봉스튜디오 헤어변형 헤이브 솔직 후기 (하남 헤어변형, 출장비X, 단발/장발 헤어변형, 신랑 헤어변형 후기)",
+     "date": "2025-10-26",
+     "what": "헤어피스를 떼고 원래 단발 생머리로 돌아온 마지막 컷"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA1MjNfMTY2/MDAxNzE2NDM5MjI4NDUw.o8G2-ZHGr-3Zy9gj6HQInnTgh44Hza08iBfaeTGCA7Mg.B4zRJLWKAZt-uQI2riIf8beCoj_QnOAvESkx5HzY910g.JPEG/IMG%EF%BC%BF20240430%EF%BC%BF163529%EF%BC%BF268.jpg",
+     "post": "https://blog.naver.com/onse3840/223455840121",
+     "blog_title": "[Chapter 5-4] (토탈)봉 스튜디오_촬영 헤어 (외부 헤어 변형 X)",
+     "date": "2024-05-23",
+     "what": "중단발에 피스를 붙이고 반묶음으로 세팅한 모습"
+    }
+   ]
+  },
+  {
+   "key": "accessories",
+   "name_ko": "헤어 장식 (진주핀 · 리본 · 생화 · 조화 · 헤어밴드 · 티아라 · 베일)",
+   "look": "머리 모양은 그대로 두고 진주핀, 리본, 꽃, 헤어밴드, 티아라, 베일을 더해 분위기를 바꾸는 방법이에요.",
+   "pairs_with": "진주핀은 로우번과 가시번에, 리본은 반묶음과 포니테일에, 생화는 땋은 머리와 하이번, 포니테일에 많이 썼어요. 티아라와 롱베일은 A라인 화이트 드레스와 복도, 블랙 배경에서 쓴 후기가 있어요.",
+   "review": "스튜디오 헤메샵과 헬퍼 이모님이 드레스에 맞는 장식을 알아서 골라 꽂아주고 실내와 야외에서 장식을 바꿔주기도 한다는 후기가 많아요. 반대로 드레스와 안 어울려서 장식을 뺐다는 경우도 있으니 원하지 않으면 미리 말하는 게 좋아요. 생화 장식은 꼭 하라는 추천이 많고, 부케를 만들고 남은 잔꽃이나 안개꽃 반 단 정도면 충분하다고 해요. 생화 장식이 있으면 과해 보이지 않게 귀걸이를 빼기도 했어요. 리본은 다이소 리본으로도 충분했다는 후기가 있어요. 둥근 얼굴은 헤어밴드로 시선을 분산했더니 생각보다 잘 어울렸다고 해요.",
+   "mention_count": 22,
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA1MjJfMTg5/MDAxNzE2MzUyNzU1NTM5.77DbzRl5yWNLUWBdBz9dHRWfUztNmmk88sldxnE3Mc4g.BXVZBt6Mc7coINfVzYcqoTMPCl5E-mascMMVr8raV1Ig.JPEG/SE-8b0dd2a4-5d9e-48d8-93c1-241ee107bcce.jpg",
+     "post": "https://blog.naver.com/onse3840/223455840121",
+     "blog_title": "[Chapter 5-4] (토탈)봉 스튜디오_촬영 헤어 (외부 헤어 변형 X)",
+     "date": "2024-05-23",
+     "what": "로우 가시번에 큰 진주핀을 여러 개 꽂은 뒷모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjAxMTlfMTEy/MDAxNzY4ODI2MDAyMDQy.TYgnYnLqRRdk5ouNf0BJ9hYf9j7noVU7m0YINoYKCO8g.1152aP8ZWMg3AxdMWFiBlaonXczdxIkeibgG4IE30LYg.JPEG/output%EF%BC%BF329354801.jpg",
+     "post": "https://blog.naver.com/afterrain21/224154247085",
+     "blog_title": "w10 봉스튜디오 헤어 메이크업 내부 헤어변형 후기",
+     "date": "2026-01-21",
+     "what": "하이번에 드레스 색과 맞춘 생화를 꽂은 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjlfMjEx/MDAxNzYxNjY1ODcwMTgz.gdAJb53GNrmuGQBMQ2ePdMQLlSckT-EU9rDxeV0zFAgg.YRakqmIicNjpyW8miZ1vePIPoSnIy_pM8BzFz7UsyD8g.JPEG/SE-56165df3-9f18-44d6-9dbe-aae066fd3094.jpg",
+     "post": "https://blog.naver.com/seoriniiiii/224057138759",
+     "blog_title": "하남 봉스튜디오ㅣ헤어 메이크업 내돈내산 솔직 후기 장점 아쉬운 점 및 꿀팁",
+     "date": "2025-10-29",
+     "what": "포니테일에 묶은 흰 리본"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA3MTFfMjMy/MDAxNzUyMjE3Nzc5Mjc1.16k_aGr0laeegXLpPDwso_QID18UDRyhyOE9c3ytUEgg.YMxr4J1NiA3jB-o4hk4yoqA1pyvFf3XdB7Ptwm2NJrEg.JPEG/SE-65aa1467-8bb0-469f-a578-0efe710377f8.jpg",
+     "post": "https://blog.naver.com/soundyo-/223930058514",
+     "blog_title": "금쪽이시집가기 W.10-2 두근두근 떨렸지만 너무 재미있었던 봉스튜디오 촬영+봉스튜디오 헤어변형 솔직후기",
+     "date": "2025-07-11",
+     "what": "블랙 배경에서 티아라를 쓴 컷"
+    }
+   ]
+  }
+ ],
+ "change_options": [
+  {
+   "key": "studio_basic",
+   "name_ko": "스튜디오 기본 헤어 (헤어변형 없음)",
+   "price": "토탈 촬영에 포함돼요. 헤어피스는 별도로 2024년 8만 원, 2025년 이후 대부분 9만 원이었고 현장에서 계좌이체로 내요. 2025년 8월과 2026년 5월에 8만 원이었다는 후기도 있어요.",
+   "how": "2층 헤메샵에서 메이크업과 함께 첫 머리 하나를 만들어줘요. 보통 굵은 웨이브 풀어내림이고, 어울리지 않으면 반묶음으로 시작하기도 해요. 이후 드레스를 갈아입을 때 헬퍼 이모님이 반묶음, 포니테일, 로우번이나 가시번 같은 기본 묶음과 장식 교체를 해주는 경우가 많아요. 다만 헬퍼 이모님은 당일 랜덤 배정이라 헤어를 전혀 만져주지 않는 경우도 있고, 고데기처럼 열을 쓰는 머리(생머리 등)는 안 돼요.",
+   "good": "추가 비용이 없어요. 이모님이 드레스별로 어울리는 머리를 추천하고 빠르게 변형해줘서 헤어변형 업체를 안 불러도 후회 없었다는 후기가 2024년에 여럿 있어요. 리본, 진주, 꽃 장식을 알아서 꺼내 꽂아준다는 칭찬도 많아요.",
+   "bad": "이모님 배정 운에 따라 결과가 달라져요. 헤메샵 기본 헤어가 정수리가 납작하고 앞머리가 금방 풀려서 마음에 안 들었다는 후기, 헤어는 그저 그렇다는 후기, 잔머리 디테일이 없어서 아쉬웠다는 후기가 있어요. 외부 업체 피스는 쓸 수 없어서 토탈 촬영이면 피스는 무조건 스튜디오에서 붙여야 한다는 안내를 받은 후기도 있어요.",
+   "sources": [
+    "https://blog.naver.com/nurinull/223381590083",
+    "https://blog.naver.com/onse3840/223455840121",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/9461so2/223904713930",
+    "https://blog.naver.com/bp_0713/223633670531",
+    "https://blog.naver.com/qkrduwls0159/224040240667",
+    "https://blog.naver.com/yezill/223596077745",
+    "https://blog.naver.com/cyeakl/224282226611",
+    "https://blog.naver.com/jjjn11/224322270635"
+   ]
+  },
+  {
+   "key": "studio_change",
+   "name_ko": "스튜디오 내부 헤어변형",
+   "price": "신부 2회 변형(첫 머리 포함 총 3가지 스타일)에 2024년에는 15만 원이었고, 2025년 3월 촬영까지 15만 원이었다는 후기가 있어요. 2025년 5월 이후 촬영 후기는 모두 22만 원이에요. 신랑 헤어변형은 1회 3만 원을 더하면 돼요. 2026년 5월 후기에서도 22만 원에 신랑 3만 원이었어요.",
+   "how": "촬영 2주 전쯤 안내 연락이 오면 헤메샵 원장님께 연락해 예약하고 예약금을 입금해요. 계좌이체이고 현금영수증도 된다고 해요. 플래너를 통해 미리 예약한 경우도 있어요. 하루 두 팀 정도로 마감되고, 오전 촬영은 원칙적으로 받지 않는다고 해요. 드레스를 벗고 가운으로 갈아입은 뒤 2층 헤메실로 올라가 다음 머리로 바꾸고, 그때 립과 블러셔 같은 메이크업도 드레스에 맞게 고쳐줘요. 촬영 현장에는 따라오지 않아서 변형이 끝나면 그 뒤 관리는 헬퍼 이모님 몫이에요.",
+   "good": "외부 업체보다 저렴하고 출장비 걱정이 없어요. 선생님 두세 분이 한꺼번에 붙어서 손이 빠르고, 변형할 때마다 메이크업도 수정해줘요. 드레스에 맞는 머리와 장식을 추천해주고 준비해 간 생화도 활용해줘요. 고정력이 좋아 야외에서도 흐트러지지 않았다는 후기가 많고, 원하는 시안을 보여주면 거의 그대로 만들어준다고 해요.",
+   "bad": "변형 횟수가 2회로 적어요. 촬영 중에 옆에서 잔머리나 앞머리를 계속 봐주지 않아서 배경이 바뀔 때 생화 장식이나 포니테일로 바로 바꾸는 서비스는 없어요. 신랑 변형은 추가금이에요. 인기가 많아 촬영 몇 주 전에 이미 마감되는 경우가 잦고, 오전 촬영이면 신청이 어려워요. 스프레이 양이 많다는 의견도 있어요.",
+   "sources": [
+    "https://blog.naver.com/afterrain21/224154247085",
+    "https://blog.naver.com/ohtoring/224097328048",
+    "https://blog.naver.com/smhee0515/224289665113",
+    "https://blog.naver.com/rkdus457/223965022200",
+    "https://blog.naver.com/umcci_/224038856941",
+    "https://blog.naver.com/jjjn11/224322270635",
+    "https://blog.naver.com/crudtjc872/224312896671",
+    "https://blog.naver.com/cyeakl/224282226611",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/seoriniiiii/224057138759",
+    "https://blog.naver.com/sensitive_hye/224213788110",
+    "https://blog.naver.com/soundyo-/223930058514",
+    "https://blog.naver.com/kry09322/224331721423",
+    "https://blog.naver.com/kry09322/224333907144",
+    "https://blog.naver.com/kry09322/224346199799",
+    "https://blog.naver.com/moren22/223654939729",
+    "https://blog.naver.com/9461so2/223904713930",
+    "https://blog.naver.com/iopjklgg/224000420046",
+    "https://blog.naver.com/yeonn0918/224409361716",
+    "https://blog.naver.com/anstjdnjs10/224107894286"
+   ]
+  },
+  {
+   "key": "seoaroom",
+   "name_ko": "서아룸 (1인 출장 헤어변형)",
+   "price": "2023년 견적 기준 3시간 평일 22만 원, 주말 25만 원이고 4시간 총 31만 원이었어요. 2025년 후기에서는 약 30만 원이었어요. 하남 출장비가 없고 야간 촬영 추가금도 없어요. 예약금 5만 원, 나머지는 당일 결제예요.",
+   "how": "인스타그램 오픈채팅으로 예약해요. 촬영 2~3주 전에 확인 연락이 오고 헤어 시안을 보내면 돼요. 촬영 시작 30분 뒤부터 오는 것을 추천하고, 드레스를 갈아입을 때마다 변형해서 드레스 수만큼 머리를 바꾼다고 보면 돼요. 한 후기는 신부 3번 변형과 신랑 1번 변형을 받았어요.",
+   "good": "주변 업체 중 가장 저렴하다는 평이에요. 신랑 헤어도 포함이고, 스튜디오 헤메샵에서 망친 정수리와 앞머리를 바로 살려줬다는 후기가 있어요. 봉스튜디오에 자주 와서 배경과 촬영 순서를 잘 알고, 400장 정도의 아이폰 사진과 영상을 찍어줘서 지인을 안 불러도 됐다고 해요. 야외로 나가기 전 예약 시간이 끝나도 앞머리와 잔머리를 단단히 정리해줘서 바람에도 끄떡없었다고 해요.",
+   "bad": "토탈 촬영이면 서아룸 피스(7만 원)를 쓸 수 없고 스튜디오에서 9만 원에 피스를 붙여야 했어요. 예약 시간이 끝나면 야외 촬영에는 함께하지 않아요.",
+   "sources": [
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/9461so2/223904713930",
+    "https://blog.naver.com/dnflrkwhr030/224264268020",
+    "https://blog.naver.com/hyereeni/223247538960"
+   ]
+  },
+  {
+   "key": "byseo",
+   "name_ko": "바이서",
+   "price": "2023년 견적 기준 3시간 25만 원, 하남 출장비 무료, 신랑 헤어변형 1회 포함, 야외 촬영 시 5만 원 추가였어요. 2025년 8월 후기는 야간 촬영 포함 4시간 30분에 38만 원이었어요. 예약금 5만 원이고 현금영수증이나 카드 결제를 원하면 부가세 10%가 따로 붙어요.",
+   "how": "카카오톡 채널에서 양식을 작성해 문의하고 예약금을 넣으면 확정돼요. 촬영 일주일 전 시안을 보내고, 촬영 시작 30분 뒤부터 예약하는 게 보통이에요. 신부 변형은 무제한이고 시간 안에서 원하는 만큼 바꿔줘요.",
+   "good": "도착하자마자 머리 디테일이 달라진다는 후기가 많아요. 촬영 방향에 따라 계속 잔머리를 만져주고, 신랑 헤어도 꼼꼼히 봐줘요. 가시번 반묶음, 네추럴번, 깻잎 생머리, 하이 포니테일, 생화 장식처럼 다양한 머리를 해줬고 약 300장의 사진을 찍어줬다는 후기가 있어요. 칭찬과 리액션이 좋아 촬영이 즐거웠다는 평도 있어요.",
+   "bad": "금액이 비싼 편이라는 의견이 있어요. 예약 확정 뒤 예약금 환불이 어렵고, 잔금 입금 안내를 따로 해주지 않아요. 다음 일정이 있으면 현장 시간 연장이 안 될 수 있어요. 인기가 많아 촬영 3주 전 취소 자리를 겨우 잡은 후기도 있어요. 블로그에 부정적인 후기도 있었다는 언급이 있어요.",
+   "sources": [
+    "https://blog.naver.com/hellogani/223743851006",
+    "https://blog.naver.com/qkrduwls0159/224040240667",
+    "https://blog.naver.com/iopjklgg/224000420046",
+    "https://blog.naver.com/jyrlove71/223613021450",
+    "https://blog.naver.com/hyereeni/223247538960"
+   ]
+  },
+  {
+   "key": "elusj",
+   "name_ko": "엘루스제이",
+   "price": "3시간 30만 원(2023~2024년), 2025년 8월 후기는 3시간 33만 원이었어요. 시간 추가는 시간당 5만 원이고 하남 출장비는 없어요. 예약금은 10만 원이에요. 담당자 지정비가 따로 있어서 원장 10만 원, 실장 3만~5만 원, 팀장 2만~4만 원이에요. 후기 이벤트로 4만 원을 돌려받을 수 있어요.",
+   "how": "예약금을 넣으면 염색부터 당일 헤메 요청 사항까지 준비 안내를 보내줘요. 촬영 일주일 전까지 시안 10장 이내를 카톡으로 보내요. 신부 변형은 무제한, 신랑은 수정 케어가 포함이고 스타일 변형은 3만 원이 추가돼요. 생화를 준비하면 장식은 무료로 해주고 잔머리 커트도 해줘요.",
+   "good": "봉스튜디오 경험이 많아 작가님, 이모님과 합이 잘 맞는다는 후기가 많아요. 얇고 힘없는 직모라 웨이브가 금방 풀려도 처음부터 다시 만들어줬고, 안개꽃 장식과 잔머리 커트를 해줬다고 해요. 사진과 영상을 찍어 에어드롭으로 바로 보내줘요. 원장님 시그니처인 크로와상번이 유명해요.",
+   "bad": "다른 출장 업체보다 비싼 편이고 지정비가 따로 들어요. 인기가 많아 늦게 예약하면 연장이 안 되는 경우가 있어요. 드레스 한 벌에 한 번만 바꿔서 무제한 변형을 제대로 못 썼다는 아쉬움도 있어요.",
+   "sources": [
+    "https://blog.naver.com/anstjdnjs10/224107894286",
+    "https://blog.naver.com/moren22/223654939729",
+    "https://blog.naver.com/piglet_adv/224050704763",
+    "https://blog.naver.com/capybara_go/224039884649",
+    "https://blog.naver.com/hyereeni/223247538960"
+   ]
+  },
+  {
+   "key": "haeve",
+   "name_ko": "헤이브",
+   "price": "하남 출장비가 없고 신랑 헤어변형 1회가 무료 포함이에요. 예약금은 10만 원이에요. 정확한 금액은 후기 속 가격표 이미지에만 있어서 글에서는 확인되지 않아요. 기본 3시간이고 현장에서 1시간을 추가했어요.",
+   "how": "인스타그램을 보고 카카오톡으로 문의해 예약해요. 드레스를 미리 알 수 없어 시안을 못 맞출 때는 처음 헤어를 어떻게 하고 갈지까지 카톡으로 정리해줬다고 해요. 신부 변형 횟수 제한이 없어요.",
+   "good": "단발 신부에게 특히 좋았다는 후기예요. 도착하자마자 턱까지 내려오던 잔머리를 자연스럽게 잘라주고, 무료 액세서리를 쓸 수 있어 따로 챙길 필요가 없었어요. 반묶음 웨이브, 포니테일, 로우번, 단발 생머리까지 4번 변형했고 아이폰으로 사진도 많이 찍어줬어요. 현금영수증도 돼요.",
+   "bad": "4시간을 써도 부족하게 느껴졌고, 선생님이 떠난 뒤 마지막 촬영에서 차이가 느껴져 아쉬웠다고 해요.",
+   "sources": [
+    "https://blog.naver.com/cksal9614/224054313620"
+   ]
+  },
+  {
+   "key": "surim",
+   "name_ko": "수림 (숨고)",
+   "price": "신부 변형 무제한에 신랑 변형 1회가 포함이에요. 계약 당시에는 3시간에 30분 추가 서비스가 있었지만 지금은 종료됐다고 해요. 정확한 금액은 글에 나오지 않아요.",
+   "how": "숨고에서 찾아 예약했고, 촬영 일주일 전 시안을 보내면 드레스 착용 순서까지 정리해줘요. 미용실 가기 전 머리 사진을 보내면 레이어드 컷과 염색 톤을 추천해줘요.",
+   "good": "4시간 촬영에 다섯 가지 머리를 했고 귀가용 미들번까지 해줬어요. 양갈래 리본 소품도 챙겨줬고 800장 정도의 사진을 찍어줬어요. 오전 촬영이라 스튜디오 변형을 못 할 때 대안이 됐다고 해요.",
+   "bad": "잔꽃 생화를 따로 준비하지 않아 꽃 장식은 못 했어요. 특별한 단점 언급은 없어요.",
+   "sources": [
+    "https://blog.naver.com/yeonn0918/224409361716"
+   ]
+  },
+  {
+   "key": "muf",
+   "name_ko": "MUF 희은",
+   "price": "2023년 견적 기준 3시간 25만 원, 하남 스튜디오 무료 출장, 신랑 헤어변형 포함, 후기 이벤트 1만 원 할인이었어요.",
+   "how": "촬영 시작 1시간 뒤에 도착해서 드레스를 갈아입을 때마다 변형해줬어요. 3시간 예약의 마지막 변형 때는 고정을 단단히 해주고 떠나요.",
+   "good": "손이 아주 빠르고 잔머리를 알아서 잘 잡아줘서 따로 요청할 게 없었다고 해요. 로우 포니테일, 로우번, 하이번에 리본 포인트를 해줬고 사진과 영상 100장 이상을 에어드롭으로 보내줬어요.",
+   "bad": "인기가 많아 예약이 일찍 마감됐다는 이야기가 있어요.",
+   "sources": [
+    "https://blog.naver.com/aeonian_hx/223888263497",
+    "https://blog.naver.com/hyereeni/223247538960"
+   ]
+  },
+  {
+   "key": "others_2023",
+   "name_ko": "기타 출장 업체 (2023년 견적 비교)",
+   "price": "스타일민은 3시간 25만 원에 출장비 5만 원, 신랑 변형 2만 원이었어요. 오늘하루는 3시간 23만 원에 30분당 3만 원 추가, 야외 3만 원, 하남 출장비 5만 원이었어요. 설경주는 출장비가 8만 원 정도였다고 해요. 하남 출장비가 없는 곳이 아니면 보통 7만~10만 원의 출장비가 붙어요.",
+   "how": "대부분 3시간 기본에 잔머리 커트, 신랑 변형, 사진과 영상 촬영을 포함해요. 호두헤어, 그로우앤드, 헤어늘솜은 문의 당시 이미 마감이었어요.",
+   "good": "업체 대부분이 사진 촬영까지 서비스로 해줘서 지인 없이 촬영해도 된다는 장점이 있어요.",
+   "bad": "하남까지 오는 출장비가 따로 붙는 곳이 많아요. 가격은 2023년 기준이라 지금과 다를 수 있어요.",
+   "sources": [
+    "https://blog.naver.com/hyereeni/223247538960"
+   ]
+  },
+  {
+   "key": "aw_helper",
+   "name_ko": "AW컨벤션 홀패키지 헬퍼 이모님 변형",
+   "price": "홀패키지에 포함된 헬퍼 이모님이 해줘서 따로 비용이 들지 않았어요.",
+   "how": "AW컨벤션 메이크업실에서 첫 웨이브 머리를 하고 오고, 촬영 중 이모님이 가시 반묶음, 로우 포니테일, 로우번으로 바꿔줬어요. 메이크업실 안내에도 헤어변형 두 번 정도는 이모님이 모양만 연출해준다고 적혀 있어요.",
+   "good": "특별한 머리가 아니라 예쁘게 바꾸는 것이 목적이면 헤어변형 비용을 아껴도 충분했다는 후기예요. 가시 반묶음 컷이 셀렉 사진 중 가장 많았다고 해요.",
+   "bad": "인스타에서 유행하는 특별한 스타일을 원하면 전문 헤어변형을 부르는 게 맞다고 해요.",
+   "sources": [
+    "https://blog.naver.com/nn125/224032483603",
+    "https://blog.naver.com/jyrlove71/223613021450"
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "text": "원하는 헤어 시안은 사진으로 꼭 준비해 가세요. 프린트하거나 한 장에 추구미를 모아 가도 되고, 시안을 보여주면 얼굴에 맞게 최대한 비슷하게 만들어줘요. 드레스는 당일에 고르니 드레스 종류별로 여러 시안을 준비하는 게 좋아요.",
+   "sources": [
+    "https://blog.naver.com/smhee0515/224289665113",
+    "https://blog.naver.com/afterrain21/224154247085",
+    "https://blog.naver.com/rkdus457/223965022200",
+    "https://blog.naver.com/capybara_go/224039884649",
+    "https://blog.naver.com/soundyo-/223930058514",
+    "https://blog.naver.com/9461so2/223904713930"
+   ]
+  },
+  {
+   "text": "첫 헤어와 첫 드레스로 가장 오래 촬영해요. 첫 머리가 마음에 들지 않으면 촬영을 시작하기 전에 바로 수정을 요청하세요.",
+   "sources": [
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/sensitive_hye/224213788110",
+    "https://blog.naver.com/9461so2/223889472263"
+   ]
+  },
+  {
+   "text": "순서는 보통 푼 웨이브에서 반묶음, 포니테일, 번 순서로 점점 묶어 가요. 생머리는 웨이브를 한 뒤에도 쫙 펴줄 수 있으니 순서 걱정은 안 해도 되고, 대개 원장님, 작가님, 이모님이 순서를 정해줘요.",
+   "sources": [
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/hellogani/223743851006",
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/ohtoring/224097328048"
+   ]
+  },
+  {
+   "text": "숱이 적거나 기장이 애매하면 헤어피스를 추천받아요. 가격은 8만~9만 원이고 현장 계좌이체예요. 번을 할 때는 번이 너무 커지지 않게 피스를 떼기도 하고, 피스를 붙이면 하이 포니테일이 어렵다는 이야기도 있어요. 단발로도 찍고 싶다면 처음부터 피스를 붙이고 마지막에 떼는 순서가 편해요.",
+   "sources": [
+    "https://blog.naver.com/kry09322/224333907144",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/onse3840/223455840121",
+    "https://blog.naver.com/cksal9614/224054313620",
+    "https://blog.naver.com/nurinull/223381590083",
+    "https://blog.naver.com/jjjn11/224322270635"
+   ]
+  },
+  {
+   "text": "헤어피스를 강요하지는 않아요. 한 번 거절하면 더 권하지 않는다는 후기가 있고, 피스를 붙이니 너무 꾸민 느낌이 나서 안 붙였으면 더 자연스러웠을까 싶다는 후기도 있어요.",
+   "sources": [
+    "https://blog.naver.com/bp_0713/223633670531",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/jjjn11/224322270635"
+   ]
+  },
+  {
+   "text": "잔머리와 애교머리를 살리려고 눈썹칼로 앞머리를 살짝 자르는 경우가 많아요. 자르기 전에 물어보는 경우도 있지만 갑자기 잘려 놀랐다는 후기도 있으니 원하지 않으면 미리 말해두세요.",
+   "sources": [
+    "https://blog.naver.com/kry09322/224333907144",
+    "https://blog.naver.com/seoriniiiii/224057138759",
+    "https://blog.naver.com/sensitive_hye/224213788110",
+    "https://blog.naver.com/cksal9614/224054313620"
+   ]
+  },
+  {
+   "text": "스튜디오 헤어는 고정력이 강한 대신 스프레이를 많이 써요. 자연스러운 결을 원하면 스프레이 양을 미리 말하고, 리본이나 장식을 원하지 않는 경우에도 먼저 말씀드리세요.",
+   "sources": [
+    "https://blog.naver.com/seoriniiiii/224057138759",
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/sensitive_hye/224213788110"
+   ]
+  },
+  {
+   "text": "헤어변형은 스튜디오 내부든 외부든 빨리 마감돼요. 촬영 날짜가 정해지면 바로 알아보는 게 좋고, 외부 업체는 3~4개월 전 예약을 권하는 후기가 많아요. 스튜디오 내부 변형은 하루 두 팀 정도로 마감되고 오전 촬영은 어려워요.",
+   "sources": [
+    "https://blog.naver.com/hyereeni/223247538960",
+    "https://blog.naver.com/jyrlove71/223613021450",
+    "https://blog.naver.com/iopjklgg/224000420046",
+    "https://blog.naver.com/anstjdnjs10/224107894286",
+    "https://blog.naver.com/sensitive_hye/224213788110",
+    "https://blog.naver.com/yeonn0918/224409361716",
+    "https://blog.naver.com/9461so2/223904713930"
+   ]
+  },
+  {
+   "text": "외부 헤어변형은 보통 촬영 시작 30분 뒤부터 부르고, 촬영에 적응할 시간을 두려고 1시간 뒤로 잡기도 해요. 촬영이 길어지는 경우가 많으니 연장이 되는지 미리 확인해 두세요.",
+   "sources": [
+    "https://blog.naver.com/hellogani/223743851006",
+    "https://blog.naver.com/dnflrkwhr030/224264268020",
+    "https://blog.naver.com/moren22/223654939729",
+    "https://blog.naver.com/capybara_go/224039884649",
+    "https://blog.naver.com/aeonian_hx/223888263497"
+   ]
+  },
+  {
+   "text": "모발이 얇고 힘이 없으면 드레스를 입고 벗는 사이 웨이브가 금방 풀려요. 이런 머리결이라면 촬영 중 계속 봐주는 외부 헤어변형을 고려해 보세요.",
+   "sources": [
+    "https://blog.naver.com/anstjdnjs10/224107894286",
+    "https://blog.naver.com/dnflrkwhr030/224264268020",
+    "https://blog.naver.com/jin68918/224089097094",
+    "https://blog.naver.com/ohtoring/224097328048"
+   ]
+  },
+  {
+   "text": "생화 장식을 원하면 부케를 만들고 남은 잔꽃이나 안개꽃 반 단 정도를 챙기세요. 스튜디오에 냉장고가 있어 보관할 수 있어요.",
+   "sources": [
+    "https://blog.naver.com/ohtoring/224097328048",
+    "https://blog.naver.com/rkdus457/223965022200",
+    "https://blog.naver.com/9461so2/223904713930",
+    "https://blog.naver.com/anstjdnjs10/224107894286",
+    "https://blog.naver.com/iopjklgg/224000420046"
+   ]
+  },
+  {
+   "text": "촬영 당일에는 샴푸만 하고 린스, 에센스, 컬크림은 바르지 말고 물기 없이 말려 가세요. 헤어팩에 단백질 성분이 있으면 고데기에서 연기가 날 수 있어요. 염색과 커트는 3일 전까지 끝내고, 톤다운 염색이나 레이어드 컷을 하고 가는 경우가 많아요.",
+   "sources": [
+    "https://blog.naver.com/iopjklgg/224000420046",
+    "https://blog.naver.com/jyrlove71/223613021450",
+    "https://blog.naver.com/nurinull/223381590083",
+    "https://blog.naver.com/rkdus457/223965022200",
+    "https://blog.naver.com/yeonn0918/224409361716"
+   ]
+  },
+  {
+   "text": "야외로 나갈 때는 바람에 날리지 않게 앞머리와 잔머리를 깔끔하게 정리하고 나가요. 깻잎 앞머리처럼 잔머리 연출이 중요한 머리는 실내에서 찍는 게 좋아요.",
+   "sources": [
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/9461so2/223904713930",
+    "https://blog.naver.com/moren22/223654939729"
+   ]
+  },
+  {
+   "text": "얼굴형과 드레스에 맞춰 고르면 실패가 적어요. 등이 파인 드레스나 심플한 슬림 드레스에는 번을, 유색 드레스에는 땋은 머리를 많이 추천해요. 둥근 얼굴은 양갈래가 어려 보일 수 있고, 헤어밴드로 시선을 분산하는 방법도 있어요. 하이번은 키가 더 커 보여요.",
+   "sources": [
+    "https://blog.naver.com/hellogani/223743851006",
+    "https://blog.naver.com/9461so2/223889472263",
+    "https://blog.naver.com/soundyo-/223930058514",
+    "https://blog.naver.com/moren22/223654939729"
+   ]
+  },
+  {
+   "text": "신랑 헤어도 원하는 스타일을 정확히 정해서 말해야 해요. 원하지 않는 깐머리가 나왔다는 후기가 있고, 외부 헤어변형을 부른다면 신랑 헤어도 봐주는 곳을 고르는 게 좋아요. 스튜디오 내부는 신랑 1회 3만 원이에요.",
+   "sources": [
+    "https://blog.naver.com/bp_0713/223633670531",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/cyeakl/224282226611",
+    "https://blog.naver.com/9461so2/223889472263"
+   ]
+  },
+  {
+   "text": "여러 헤어를 해보면 어떤 머리가 어울리는지 알게 돼서 본식 헤어를 정하는 데 도움이 됐다는 후기가 많아요.",
+   "sources": [
+    "https://blog.naver.com/soundyo-/223930058514",
+    "https://blog.naver.com/jjjaldnj/224004180777",
+    "https://blog.naver.com/anstjdnjs10/224107894286"
+   ]
+  }
+ ],
+ "notes": "가격 충돌: 스튜디오 내부 헤어변형은 2024년부터 2025년 3월 촬영까지 2회 15만 원, 2025년 5월 이후 후기는 모두 22만 원이에요. 헤어피스는 8만 원과 9만 원이 섞여 있어요. 2024년은 8만 원, 2025년 이후는 대부분 9만 원이지만 2025년 8월과 2026년 5월에 8만 원이라는 후기도 있어요. 외부 업체 피스는 쓸 수 없다는 안내를 받은 후기가 있는 반면, 본인이 가진 피스를 썼다는 후기도 있어서 규정이 경우마다 다를 수 있어요. 변형 횟수 표현도 달라서 신부 2회 변형(첫 머리 포함 3스타일)과 여자 3번이라는 표현이 섞여 있는데 같은 뜻으로 보여요. 외부 업체 가격 중 서아룸, 바이서, MUF 희은, 스타일민, 오늘하루는 2023년 견적이라 지금과 다를 수 있고, 헤이브와 수림은 금액이 글에 나오지 않아요. mention_count는 해당 스타일을 실제로 했거나 구체적으로 다룬 서로 다른 글 수를 직접 센 근사값이에요. 같은 블로거(9461so2)의 글 두 편은 각각 셌어요. 협찬이나 보상 표시: jin68918, kgr1012, rkdus457은 다이렉트결혼준비 포인트를 받고 쓴 글이고 jin68918은 추천인 코드도 있어요. umcci_, capybara_go는 제이웨딩 포인트를 받았고 추천인 안내가 있어요. moren22는 엘루스제이 후기 페이백을 받았어요. piglet_adv는 내돈내산이라고 밝혔지만 업체 홍보 문체가 강해요. nurinull, onse3840, qkrduwls0159는 카페 추천인 안내가 있어요. 9461so2는 대가성 없는 기록이라고 밝혔어요. 사진 검증: umcci_ 글의 양갈래 사진은 업체와 다른 스튜디오 출처 참고 이미지라 제외했어요. nn125 글은 AW컨벤션 이모님 작업이라 스튜디오 헤메샵 결과물이 아니에요. 스튜디오 헤메샵 기본 헤어에 대한 평가는 만족과 불만이 크게 갈려요."
+}
