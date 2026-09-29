@@ -1,0 +1,906 @@
+{
+ "sets": [
+  {
+   "key": "gate",
+   "name_ko": "시그니처 흰 대문",
+   "area": "1세트장",
+   "feature": "흰 박공지붕 건물에 검은 양문, 양옆 벽등과 초록 화단이 있는 1세트장 입구예요. 봉스튜디오 하면 떠오르는 대표 컷이에요.",
+   "tip": "오후의 따뜻한 햇빛이나 핑크빛 노을 때 찍으면 특히 예쁘대요. 여기서 찍은 사진을 액자로 고르는 커플도 많아요.",
+   "aliases": [
+    "메인 대문",
+    "시그니처 대문",
+    "대문샷",
+    "대문앞 야외",
+    "야외 집 대문앞"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTY4/MDAxNzgyOTczNjYyNzg4.9GxlmKiI_wz0jrALmii_pvYppfOM4TgCWdGe3gWSTi4g.RkBW_c-VrsT0zYsa1_-28qVezuZl5e6BcOlllgmZtf0g.JPEG/IMG%EF%BC%BF8358.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 대문 정면: 검은 양문, 벽등, 돌계단과 화단"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDNfMjk3/MDAxNzgzMDQ0NTc2MTc2.ZDX76SEGuAAXG1tnWV8yPC56Uhxfe7pe3VTlLcThgH8g._rvT4707Ll_DJecMpwoU0nC0WoKaw3MTjWvPZ2CPO94g.JPEG/IMG%EF%BC%BF6213.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "흰 박공지붕 건물 전체가 보이는 대문 앞 커플 전신"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDdfMjQ3/MDAxNzgzMzYxODMwNTAz.IHF5G5PwpLtNKJ6kmHsqVZG0_MvZ47Q-S1koU3IyODgg.OhIdKhBrqZtUKZwwoWkAS6kBwEMYnr40Cwb-Weo4jaUg.JPEG/IMG_4785.jpg",
+     "post": "https://blog.naver.com/rlckd0730/224338708483",
+     "blog_title": "봉스튜디오 촬영후기",
+     "date": "2026-07-07",
+     "source_type": "customer",
+     "what": "대문 앞 커플 전신, 양문과 벽등이 또렷함"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfOSAg/MDAxNzc4NTA1MTE2ODk1._Vglb2FBjAQ7rkQCsG-i16GeDAQYpsR_mQcocCA6jdwg.cTgXuMnEwoHIZRsAGzOaQI6N4IA1feXxehLcZjxOVCgg.JPEG/output%EF%BC%BF2230400311.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "대문 앞 돌길에 선 커플 전신, 양옆 초록 화단"
+    }
+   ]
+  },
+  {
+   "key": "bigwindow",
+   "name_ko": "초록 통창 + 소파",
+   "area": "1세트장",
+   "feature": "창밖 나무가 가득 들어오는 큰 통창 앞에 곡선형 흰 소파가 놓인 자리예요. 자연광이 풍부해서 화사하고 싱그러워요.",
+   "tip": "오후에 자연광이 들어올 때 실루엣이 예쁘게 나와요. 소파는 옮길 수 있어서 소파 후라이컷, 창틀에 기대기, 바닥에 앉기까지 연출이 다양해요. 창밖 나무가 사철 초록이라 겨울에도 괜찮대요.",
+   "aliases": [
+    "메인 통창",
+    "통창뷰",
+    "그리너리 통창",
+    "창문씬",
+    "소파씬",
+    "창가 배경",
+    "창문1",
+    "통창문"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTMg/MDAxNzgyOTczNjQxNjk4.alYXVmuxMi_7YJwNkhqTFQ6wQB_P3HKsoHJR9IKLOiwg.eIiWFobiuW5AM8iQMmoAIJ98uDyqwm38SWXRvAZfWoIg.JPEG/IMG%EF%BC%BF8355.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 통창과 곡선 흰 소파, 창밖 초록 나무"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTc3/MDAxNzgyOTk3NzY4Mjg3.9Kr-JYBe4n7qjjj4c22mwsFPdGarU4roXu6laqy-Y4og.J99AXGESscuidDuso-pJ3Cm2fucMLREwM-L4XoplpYcg.JPEG/output%EF%BC%BF2425165329.jpg",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "통창 앞 바닥에 앉은 커플, 창밖이 초록으로 가득"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA2MjhfMjgg/MDAxNzgyNjM3Mjg1NTI1.pZJjPjHWqOdluqQJA8-CTd9nBKxwdPMQCnPA41xzKCIg.wTZNFWJ6NPLMSNuvNsdag_9GnHzSZPb5XpAXwcd9YRgg.JPEG/SE-e33a59f3-c9fb-4d56-b14c-4419c985f83f.jpg",
+     "post": "https://blog.naver.com/sana_journey/224329752024",
+     "blog_title": "봉스튜디오 웨딩촬영 후기 - 그리너리한 통창씬 후기",
+     "date": "2026-07-02",
+     "source_type": "customer",
+     "what": "통창 창턱에 기대 앉은 커플, 옆에 흰 소파"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDdfNTYg/MDAxNzgzMzYwNjkxMjM2.4eU16i3WM-4VIrMQTfHDsniJJAA6KIC37uD-ybIbkv8g.iSkcjUrB82ToqTrieQA5aXlR1zpq7Ni3kEV2azzWE2Qg.JPEG/IMG_1856.JPG",
+     "post": "https://blog.naver.com/rlckd0730/224338708483",
+     "blog_title": "봉스튜디오 촬영후기",
+     "date": "2026-07-07",
+     "source_type": "customer",
+     "what": "통창 앞 창틀에 걸터앉은 커플 전신"
+    }
+   ]
+  },
+  {
+   "key": "anglewindow",
+   "name_ko": "각진 창틀(트윈 창틀)",
+   "area": "1세트장",
+   "feature": "여러 칸으로 꺾인 흰 창틀(베이 윈도) 너머로 초록 잎이 보이는 자리예요. 통창보다 조금 작고 아늑해서 동화 같은 느낌이에요.",
+   "tip": "창턱에 나란히 걸터앉거나 신부 단독컷으로 많이 찍어요. \"잠자는 숲속의 공주 느낌\"이라는 후기가 있어요.",
+   "aliases": [
+    "각진 창틀",
+    "꺾인 창문",
+    "트윈 창틀",
+    "창문2",
+    "육각창",
+    "두 번째 창가"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMjcx/MDAxNzgyOTczNjQyNTQy.JyWHrBkFA-rHyCr08pdu4csf89IbCdnOhBCJbtg0eLUg.jlyrs4qrJYjL-1owhajG81hb8rbzpTDqhYpq1p8N2F4g.JPEG/IMG%EF%BC%BF8354.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 꺾인 흰 창틀과 창밖 초록 잎"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTEy/MDAxNzgyOTk3NzE2MTAz.F1WMGiejHpX5ksOfYOI-PQF3ElwGjoKhk1YrIGkbC-cg.mTVKbeecUA9MBKMS2CHArVmpIDxG5P7ddSxqRPpUNVUg.JPEG/output%EF%BC%BF3069048483.jpg",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "각진 창틀 창턱에 나란히 걸터앉은 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjhfMzgg/MDAxNzkwNTk4MjA1Mjc2.YTFG-xCT5f4Q6YmC_K5YM04BfEJdUgLxlTIrP_z8kR4g.P6ka37cn9zVWKDq4mLrcWfxI_ZT7hCcTGLvFeRpcCZIg.JPEG/SE-8367b0c2-cd01-44e3-b0ae-74a9856b8a62.jpg",
+     "post": "https://blog.naver.com/num_nyum_beep/224425257443",
+     "blog_title": "하남 토탈 봉스튜디오 초록 창가 배경 촬영",
+     "date": "2026-09-29",
+     "source_type": "customer",
+     "what": "꺾인 창틀 앞 커플과 반려견, 창밖 초록 나무"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfNDIg/MDAxNzc4NTA0Nzg4MDY1.juBbB7RuF1UvM_AWWJZVxWURhZD30UBnlrGXw-JFYvsg.zQhXgX6rjuInHjALNj98i7Zw3jmyaF93XNVtqQtSdBog.JPEG/output%EF%BC%BF2340329884.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "각진 창틀 창턱에 앉은 커플 반신"
+    }
+   ]
+  },
+  {
+   "key": "smallwindow",
+   "name_ko": "작은 창·길쭉한 창",
+   "area": "1세트장",
+   "feature": "흰 벽에 난 작은 네모 창(흰 커튼)이나 좁고 긴 창이에요. 창으로 들어온 빛이 벽에 무늬를 만들어서 차분하고 감성적이에요.",
+   "tip": "역광으로 손등 키스나 반신 클로즈업처럼 가까이 찍는 컷에 잘 어울려요. 흰벽 바로 옆이라 흰벽씬과 이어서 찍는 경우가 많아요.",
+   "aliases": [
+    "작은 창문",
+    "길쭉창문",
+    "네모창문벽",
+    "작은창"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMzkg/MDAxNzg5ODg2OTc5NzIz.TlndtriBYwAmmtbZttnqWTR_aSENQzx8zP6TlpS6-xgg.tiJFXwyycSjFAKY0kln5FubPcvnGXxnLZ6jcwccglrMg.JPEG/20260829_164705.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "1세트장 안쪽 전경: 가운데 흰 벽에 난 좁고 긴 세로 창(작게 보임), 앞쪽 블랙 소파, 뒤로 계단과 통창"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfMjg3/MDAxNzc4NTA0NTE5NDgz.EztMsJuMhvFRtNnA90nTg4_lBA3lfy_Sefywh_-HRFkg.0zhJQnsWU-qOBT55iW778ZlpB1XnGw8AhYt8yOr0_p0g.JPEG/output%EF%BC%BF1865633506.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "흰 커튼 단 작은 네모 창 옆 벽에 기댄 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfNTMg/MDAxNzc4NTA0NTMwNTQz.lfcqLgjSbL-2bFqkzUoLmSsGHJl9gzhpmXdVH5Mb7Zkg.wSrv-Xdkxqcnq2OqRsugAsSCTBElkhnxTokqdhYOMb4g.JPEG/output%EF%BC%BF3875257967.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "작은 창 옆 흰 벽 앞 신부 단독 전신"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDNfNTIg/MDAxNzg1NzI2NTAyMjk1.4OCN4gIs_R8H84hErC-2z4rELi43-KnDzURI74Y4hLwg.fcUBZ7Sn06OZ4O8DB-gqzse4iC2oRxpr620ANuPSZ6Yg.JPEG/output%EF%BC%BF1681115826.jpg",
+     "post": "https://blog.naver.com/tmddus1426/224366659705",
+     "blog_title": "👰🏻‍♀️[웨딩촬영]하남 봉스튜디오 | 스튜디오 촬영 후기 만족!!| 웨딩촬영 꿀팁/ 후회된 점",
+     "date": "2026-08-03",
+     "source_type": "customer",
+     "what": "흰 벽 속 작은 창 앞에서 베일을 쓴 커플"
+    }
+   ]
+  },
+  {
+   "key": "wood",
+   "name_ko": "나무 합판 벽 + 블랙 소파",
+   "area": "1세트장",
+   "feature": "매끈한 나무결 벽 앞에 블랙 가죽 데이베드가 놓인 자리예요. 화이트 톤 세트들 사이에서 유일하게 따뜻하고 시크한 무드예요.",
+   "tip": "나무 벽에 나란히 기대거나 블랙 소파에 앉는 컷이 생각보다 분위기 있게 나와요. 블랙드레스나 진한 수트와도 잘 어울려요.",
+   "aliases": [
+    "우드 벽",
+    "나무벽",
+    "나무질감벽",
+    "합판벽",
+    "우드 벽 + 블랙 쇼파"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMjM3/MDAxNzgyOTczNjU5NTA1.Rhpzn0g0MZhWL8buJCFsziGKVa_4dS9eJ5FH5TIhqbgg.BKxIvZgTs5JGbqIfZmfA-XT_Za0WTCAi5h_v8DL8wPAg.JPEG/IMG%EF%BC%BF8351.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 나무 벽과 블랙 데이베드, 옆 의자"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMjcy/MDAxNzg5ODg2OTc5NDAy.p51sNepCVq30EdW00L-x9xz2DmpwOH8Qskm2GxG9nnog.HFWvaAaOy6Y0C_2tTAng4s_DiYzdMRfc8ZMYi7CUxzYg.JPEG/20260829_164702.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "곡선으로 휘어진 나무 합판 벽과 블랙 의자 전경"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDNfMTU5/MDAxNzgzMDQ0MjQyMjg3.AoKkNqNzMAMiDBamPudQKl7N9SP159RgJ38dmrlISSIg.peoTtyM_NTFfwAZQ3AQg4kJ8Zwy6H8wWILwWhs2KLTwg.JPEG/IMG%EF%BC%BF6209.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "나무 벽 앞에 나란히 선 커플 전신"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfMjU4/MDAxNzc4NTA0ODc5NTY1.a_bWhBaDx0qAttYp_uwlydZtOSiaUVUINdvJ_wbgkw4g.0VfZc50xXRNjJHwemgL8OZndf2Jd8d9OKyaGkkx05HUg.JPEG/output%EF%BC%BF3039226753.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "나무 벽 앞 손잡은 커플"
+    }
+   ]
+  },
+  {
+   "key": "flowerarch",
+   "name_ko": "꽃 장식 메인 아치(실내 꽃 대문)",
+   "area": "1세트장",
+   "feature": "높은 아치 천장에 둥근 볼 조명이 달리고, 흰 양문 주위를 흰 꽃이 풍성하게 감싼 체크무늬 바닥의 홀이에요. 가장 웨딩다운 정석 배경이에요.",
+   "tip": "웨딩사진 정석 느낌을 원하면 꼭 넣으라는 후기가 많아요. 꽃 장식은 시즌마다 바뀌어요(2025년엔 둥근 아치형, 2026년엔 한쪽으로 흐르는 비대칭형).",
+   "aliases": [
+    "실내 메인 아치",
+    "꽃 아치",
+    "흰색 꽃 아치",
+    "플로럴아치",
+    "실내 꽃 대문",
+    "꽃모양 아치",
+    "네모문"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfNDcg/MDAxNzg5ODg2NzQwNjEx.2aTi2P3ZmBCZjn8PUuDJ_FaP2tnCd9xa3ngKphNdsxsg.SCa5Jupd5_XsRyRbHoYOeQQEUUR4xoRqB6663-11NQcg.JPEG/20260829_111245.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "사람 없는 홀: 둥근 볼 조명, 흰 양문을 감싼 흰 꽃, 체크무늬 바닥"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDdfMTgy/MDAxNzg2MDU3OTQ0NzQ1.6n4DMkzEvuH9lWVOm5WKsTfwRyhmLiZ_YXHaJ2gx3QAg.G6axd0BH6AiFrkrn5qVCMm9mjrOpKfMHUiilS6JSw-Ig.JPEG/output%EF%BC%BF3434743808.jpg",
+     "post": "https://blog.naver.com/xoxxeun/224376775969",
+     "blog_title": "하남 봉 스튜디오 토탈 웨딩촬영 / 무계획 촬영 후기",
+     "date": "2026-08-12",
+     "source_type": "customer",
+     "what": "빈 꽃 아치를 조금 떨어져서 본 모습, 아치형 천장과 커튼"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDNfMjk4/MDAxNzgzMDQzODYzMzQy.gXaMLbJNFvp95IXOvRNTeupmgRWTGCl2VxAprpIxoIog.9n6YKanPs-eb9iNR0PuAmMpu5EDt0sCm9RgJqgI8O3sg.JPEG/IMG%EF%BC%BF6205.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "꽃 아치와 볼 조명 아래 선 커플 전신"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDdfMyAg/MDAxNzgzMzYwNTE3NDE5.l2EZOPneiv1WNqdm6Ua6TWf9_nGjyfuJROOp8JYKHR4g.2OMFBzVAlyNyXmlLwm4FVjH75lm_qAMXfvPhMcKnXOUg.JPEG/IMG_1816.JPG",
+     "post": "https://blog.naver.com/rlckd0730/224338708483",
+     "blog_title": "봉스튜디오 촬영후기",
+     "date": "2026-07-07",
+     "source_type": "customer",
+     "what": "흰 꽃 아치 앞 커플 반신"
+    }
+   ]
+  },
+  {
+   "key": "whitearch",
+   "name_ko": "하얀 아치 통로",
+   "area": "1세트장",
+   "feature": "나무 벽 앞에 세워진 두꺼운 흰 아치 구조물이에요. 통로처럼 드나들 수 있어서 고급스럽고 모던한 느낌이에요.",
+   "tip": "손 잡고 아치를 지나 들어가는 워킹 연출이나 아치 안쪽 벽에 기대는 컷이 예뻐요.",
+   "aliases": [
+    "화이트 아치 통로",
+    "아치문",
+    "화이트 아치형 문"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfNyAg/MDAxNzgyOTczNjY5NjYx.GG2oQvyYIjG-t9VIuWO8R_SWBozVFqw4w0eeeijXLj4g.wIUUqLAUyVUefgoxD88OQXWm_SpNcOOOwBJRD3Cbe9og.JPEG/IMG%EF%BC%BF8343.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 두꺼운 흰 아치 구조물"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDdfMTc4/MDAxNzg2MDU3OTA5MTgy.Vt_vipETCO4Mvc3WtG6TrblglCeWNL-UjPi1rYiu8G8g.DO5-px-Sa8FtqThbR_ro2n2YmVVt0AY993wD_alCZb0g.JPEG/output%EF%BC%BF1832619098.jpg",
+     "post": "https://blog.naver.com/xoxxeun/224376775969",
+     "blog_title": "하남 봉 스튜디오 토탈 웨딩촬영 / 무계획 촬영 후기",
+     "date": "2026-08-12",
+     "source_type": "customer",
+     "what": "흰 아치와 안쪽 통로가 보이는 빈 세트 전경"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDNfMjMy/MDAxNzgzMDQ0MDA1NTQ5.wM75H-hmpJ4mCDdlacml_Z8dKtihdTEFmnd9LiP9iA0g.n0Pgk5uYKLfK10lTShcFX1jzpLELgJuNlkl8bXq3-D8g.JPEG/IMG%EF%BC%BF6208.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "흰 아치 앞을 손잡고 걷는 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDNfMjU3/MDAxNzg1NzI5NjU1MTQ3.R0KxC6Ysg2S0rI7JlxZnWmfLuO-dzgh_qeF9KDIHPv0g.SKWoGBfIbD29vthkxhG6tdDbGaNpvmz6MPDNS5NKBrog.JPEG/output%EF%BC%BF1304771883.jpg",
+     "post": "https://blog.naver.com/tmddus1426/224366659705",
+     "blog_title": "👰🏻‍♀️[웨딩촬영]하남 봉스튜디오 | 스튜디오 촬영 후기 만족!!| 웨딩촬영 꿀팁/ 후회된 점",
+     "date": "2026-08-03",
+     "source_type": "customer",
+     "what": "나무 벽 앞 흰 아치 통로를 걸어 나오는 커플"
+    }
+   ]
+  },
+  {
+   "key": "greenarch",
+   "name_ko": "초록 잎 아치",
+   "area": "1세트장",
+   "feature": "회색 아치형 벽감과 계단 위에 펜던트 조명이 달리고, 양옆을 초록 잎과 꽃이 크게 감싼 자리예요. 싱그럽고 생기 있는 분위기예요.",
+   "tip": "신부 단독컷이 특히 잘 나온다는 후기가 있어요. 꽃 장식은 시기마다 달라요(2025년~2026년 봄엔 핑크·피치 꽃, 2026년 5월 이후엔 초록 잎과 흰 백합).",
+   "aliases": [
+    "실내 초록 아치",
+    "초록아치",
+    "아치꽃",
+    "아치벽",
+    "성벽",
+    "아치 계단",
+    "꽃장식 아치형 계단",
+    "실내 꽃 대문씬"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTkx/MDAxNzgyOTczNzEwODY3.XsdQepY3tNGAi8Wb4NnrSBRqQZF96xmcOR__D5SvxT8g.n0BxCm7N-YPqUOLHfMSuHzawWFEBBDp8ifw3F1yzvR0g.JPEG/IMG%EF%BC%BF8339.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 초록 아치: 회색 아치 벽감, 계단, 초록 잎과 흰 백합"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDdfMjc5/MDAxNzg2MDMwMTA0NjUw.wGQViCfjOU8YozGLm2LCrWxy1jX5omdjBCuIOyhUY1cg.pmsp-CdD-hdxCyOZZPaFg7fXR7otff9q540n0qkG2Dkg.JPEG/IMG%EF%BC%BF7227.jpg",
+     "post": "https://blog.naver.com/xoxxeun/224376775969",
+     "blog_title": "하남 봉 스튜디오 토탈 웨딩촬영 / 무계획 촬영 후기",
+     "date": "2026-08-12",
+     "source_type": "customer",
+     "what": "빈 초록 아치를 옆에서 본 모습, 계단과 펜던트 조명"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDdfMjgw/MDAxNzgzMzYwMjMyOTA5.EZ21gwqF3pxccbIcn5nITMNQoW9iF5aqyVbl078-Noog.Burw6KW7RFJAqCfcKCCSfYhhEOXmpnEnAblWma3mBPcg.JPEG/IMG_4720.jpg",
+     "post": "https://blog.naver.com/rlckd0730/224338708483",
+     "blog_title": "봉스튜디오 촬영후기",
+     "date": "2026-07-07",
+     "source_type": "customer",
+     "what": "초록 아치 계단 앞 커플 전신(흰 백합 장식)"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA2MTJfMTYx/MDAxNzgxMjc0NTYwOTk3.w5f1bhNuFf2xQ3M4KU9BQ_AUsroEj5idXLGmiOCQa2gg.fT7iIsdr7NIGHtDPPdl5mxWxIdtsz8w4Jjj-thsuUbkg.JPEG/1781274139233.jpg",
+     "post": "https://blog.naver.com/hyeonseo0710/224314366758",
+     "blog_title": "토탈스튜디오 하남 봉스튜디오 촬영 후기(드레스 종류, 야외 촬영, 헬퍼, 소품, 헤어변형, 추가금)",
+     "date": "2026-06-12",
+     "source_type": "customer",
+     "what": "같은 아치의 핑크 꽃 장식 버전 앞 커플(2026년 4월 촬영)"
+    }
+   ]
+  },
+  {
+   "key": "party",
+   "name_ko": "케이크·촛불 파티 테이블",
+   "area": "1세트장",
+   "feature": "길쭉한 창 두 개 앞에 흰 천을 두른 테이블과 케이크·촛불·리본 소품을 올린 브라이덜 샤워 느낌의 자리예요.",
+   "tip": "테이블 뒤에 서거나 앞에 앉아 다양하게 찍을 수 있어요. 올블랙 착장이 잘 어울리고, 케이크 모형(검정·빨강)은 스튜디오에서 빌릴 수 있어요. 해가 진 뒤에 찍어도 조명으로 낮처럼 나온대요.",
+   "aliases": [
+    "파티 컨셉",
+    "테이블씬",
+    "케이크샷",
+    "분할 창문·테이블",
+    "창앞(세트이용)",
+    "창문컷·테이블컷",
+    "주간파티"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMjAz/MDAxNzgyOTczNjY1Nzcx.lupmh0WRAlW4kEIghIIsjkhuSfO83M4eflQBTAxPackg.pUfjTDX2DlPyGdNWV-ZKr2-XKECogMejK4W6uInD3cUg.JPEG/IMG%EF%BC%BF8337.JPG",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "사람 없는 파티 테이블: 흰 천 테이블, 초, 블랙 리본, 뒤로 커튼 친 창"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDJfMTYg/MDAxNzgyOTk4NDg4MzY3.Mn4eCdJhH6paUighoNXlaz-RQqoMxyXJW3aYXYPSJ8Qg.9aJ-_nOxkETZ-klFcULsat6G5PjiGvBC9lGUDf9C-Nwg.JPEG/output%EF%BC%BF263399160.jpg",
+     "post": "https://blog.naver.com/kry09322/224335326354",
+     "blog_title": "봉스튜디오 촬영 후기 A to Z | 웨딩 촬영 순서, 스튜디오 배경 총정리 등",
+     "date": "2026-07-03",
+     "source_type": "customer",
+     "what": "파티 테이블 뒤에 선 커플, 케이크와 촛대"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjlfMTMy/MDAxNzYxNzA4ODIwMzY4.ZscpmrV0AoKuu4rq_wNrb52oj2cQQn7nGL_iy60VETAg.tfri8RJoAITrIxZPig3s2aAKuwSgIXnFBzBAde1LFoQg.JPEG/IMG%EF%BC%BF4278.JPG",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "격자 창 앞 꽃·케이크 테이블에 앉은 커플(2025년 가을 세팅)"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA4MDVfMzIg/MDAxNzIyODY3NTk4OTQ0.QDkPh2wsb9SIGAGr7S6cYFL2VzhCB-CC6goNEo-lafAg.YT69xfuHHWXWLC2CHae2p-NZ_L9ED-oqkrgx2thnXBIg.JPEG/SE-c31bbb5f-5043-11ef-85a9-9f99176f7be6.jpg",
+     "post": "https://blog.naver.com/l0vebelt/223537780218",
+     "blog_title": "[W-102] 24년 봉 스튜디오 신규 배경 비토탈 촬영후기 실내 1세트장 (feat. 제이웨딩, 누벨드블랑, 히엘)",
+     "date": "2024-08-06",
+     "source_type": "customer",
+     "what": "빈 파티 세트 전경: 긴 격자 창 두 개와 꽃 테이블(2024년)"
+    }
+   ]
+  },
+  {
+   "key": "whitewall",
+   "name_ko": "흰벽씬(움푹/곡선 흰 벽)",
+   "area": "1세트장",
+   "feature": "아무것도 없는 매끈한 흰 벽과 코너예요. 빛이 드는 각도에 따라 그림자와 빛무늬가 생겨서 심플하면서도 고급스러워요.",
+   "tip": "인물 사진이나 단독컷에 \"굿초이스\"라는 평이 많아요. 블랙드레스·캐주얼·컨페티 연출에도 잘 어울려요. 흰 배경이 심심하면 꽃 소품을 더해 달라고 하면 돼요.",
+   "aliases": [
+    "흰벽",
+    "흰 벽",
+    "화이트 벽",
+    "흰 배경",
+    "움푹흰벽",
+    "기본 흰 벽"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfMTYy/MDAxNzQ5NTU5MjMzOTk3.aiDFm6F3QcEiq68EzAyvfAF72-jiXd5XKeSNTj2usGog.O7MG2fA80tqB3gQcfKFXgDsjVA4Xwfeh8xP2h5AhVjwg.JPEG/SE-77FDDBFB-617C-4CE9-B409-A33638678E89.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "흰 벽 코너 바닥에 앉은 커플, 벽 전체가 보이는 넓은 컷"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMTRfMjUy/MDAxNzYzMTI3MTIyODgz.VijiXO5X-4kSU_QS5uu_T7GzUFXMYdqGXwNBD_m1DyQg.6-ZYdYbp0Pyry5tqPVLL_Zf49zlo3o4k0JQISm6MYt0g.JPEG/KakaoTalk_20251114_222432554.jpg",
+     "post": "https://blog.naver.com/cksal9614/224076362451",
+     "blog_title": "[wedding기록] 웨딩촬영 후기1-7. 봉스튜디오 기본 흰 벽 촬영 후기 (하남 토탈스튜디오, 정복 웨딩촬영 포즈 추천)",
+     "date": "2025-11-14",
+     "source_type": "customer",
+     "what": "흰 벽 앞 커플 전신, 벽에 은은한 그림자"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA3MDdfMTcw/MDAxNzgzMzYwODI0MTE2.xae_alZb2B1swEwZmfzBIWgyQIUAAeU8ql7-fNyS1psg.3Qnro4KC_M4dFkxiNmBjkoxxFSyKDzhmwyCH4yfsG84g.JPEG/IMG_1836.JPG",
+     "post": "https://blog.naver.com/rlckd0730/224338708483",
+     "blog_title": "봉스튜디오 촬영후기",
+     "date": "2026-07-07",
+     "source_type": "customer",
+     "what": "흰 벽 코너에 기대 선 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjhfNTAg/MDAxNzYxNjQwNDkxODc2.hTFrCCqP-poZcyLriPnxal2Z9kavX7_vK5lWybR1rwsg.T3G-pzu5NTqmaD0IaHIFY22fDzrPw21AHZuCpEpVVakg.JPEG/IMG%EF%BC%BF5295.jpg",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "흰 벽 아래 바닥에 앉은 커플 전신"
+    }
+   ]
+  },
+  {
+   "key": "hoteldoor",
+   "name_ko": "높은 흰 문(호텔문·큰 문)",
+   "area": "1세트장",
+   "feature": "몰딩이 들어간 높은 흰 양문이에요. 문을 열고 닫으며 드나드는 연출이 가능하고 클래식한 유럽풍 느낌이에요.",
+   "tip": "블랙드레스를 입고 많이 찍는 자리예요. 문 사이로 오가며 장난치듯 연출하면 자연스럽게 나와요.",
+   "aliases": [
+    "큰문씬",
+    "흰색 큰 문",
+    "하얀 문 배경",
+    "호텔문",
+    "문앞"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMjU5/MDAxNzg5ODg2NzM4NjQx.5_PrTZ9eQCoyHSSZUpSAjlQgpAcsY0R1qGymQx3BInEg.r2pUOUBH9AB3JxHARaHy5XCq14LWr0c8feKHpwUVKVUg.JPEG/20260829_173514.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "빈 세트 전경: 왼쪽에 높은 흰 양문, 안쪽엔 커튼 친 긴 창과 파티 테이블"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfMTk5/MDAxNzQ5NTU5MjUyODQ0.bbueWhNSdNwR8-kS29AawH8fWlSmbKb6kxXpKTQeDIQg.HrWgAwV8VCz0VtUNSBp7Im4A0ahYktGHN7mZ87DUzd8g.JPEG/SE-D3C7B527-5A5F-47D6-BD0A-095B90C64D32.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "활짝 연 흰 양문 사이에 선 블랙드레스 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDJfMTEx/MDAxNzQ4ODQ2OTAwMDYw.sQkqaZ7jxfFgwmOvEzByLqxLT-HxUum4Q7MtfCsc-6cg.s3NXWcm2SRybg9gzuA87nvJW4sfEjhpVlBOFBjdwluYg.PNG/image.png",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "흰 큰 문 앞을 걸어가는 신랑"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA4MDVfMTYz/MDAxNzIyODY3NTYwOTIw.w0DKND5u70CddLHqZaSAm9X3PvYgiWyZVuziB89efAwg.LKPIGYhQtrqseBnvu6XSEfbG0V-qBO_Ke6X3d63LUjkg.JPEG/SE-1700a0a7-5044-11ef-85a9-5d7f465ee5e9.jpg",
+     "post": "https://blog.naver.com/l0vebelt/223537780218",
+     "blog_title": "[W-102] 24년 봉 스튜디오 신규 배경 비토탈 촬영후기 실내 1세트장 (feat. 제이웨딩, 누벨드블랑, 히엘)",
+     "date": "2024-08-06",
+     "source_type": "customer",
+     "what": "네모난 흰 문틀 속 커플(2024년 리뉴얼 버전)"
+    }
+   ]
+  },
+  {
+   "key": "corridor",
+   "name_ko": "간접조명 호텔 복도",
+   "area": "1세트장",
+   "feature": "흰 웨인스코팅 벽을 따라 벽등이 이어지는 좁고 긴 복도예요. 은은한 간접조명 덕분에 깊이감 있고 차분한 무드예요.",
+   "tip": "정면보다 측면·뒷모습·뒤돌아보는 컷이 자연스럽게 나와요. 무표정에 부드러운 시선 처리를 연습해 가면 좋아요. 블랙드레스보다 레이스 드레스가 더 무드 있었다는 후기도 있어요.",
+   "aliases": [
+    "호텔 복도",
+    "복도씬",
+    "복도샷",
+    "호텔복도",
+    "낮복도"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMjQ1/MDAxNzg5ODkwNjA1Mjgx.7yrcNT2YgxYV85z0eAjGwxYBijhTZelIEmADu9lOUgkg.zGkE9ZBOtvfXd3t29mMGG2HLNmAr272uL6RTSRYCQVYg.JPEG/SE-342dc0cc-f020-48a8-a885-8df65b1be1a8.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "벽등이 이어진 복도를 걸어가는 커플 뒷모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfMTAw/MDAxNzQ5NTU5MjYwOTI5.vV98xGrlyFua4MaUBVtmAsbOPGKGg5stlJl83yxK8mgg.3937V6lo0AlmQ_RVltmdmjnaVzE62SmBlLSGEFE0kPAg.JPEG/SE-EB89F993-5BCC-45D1-A809-F3494817650A.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "복도 끝까지 보이는 넓은 컷, 바닥에 앉은 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMTBfOTAg/MDAxNzYyNzU4NzYzNjQ2.9I6GLt6Tnv-5PHobc5XrX9xPd-Q60wnrZYsq9SzzqkYg.9H7EQ2YEXiT8eiKjLNr6wN9BfT_h-EUwqefwXYXvY_8g.JPEG/IMG%EF%BC%BF3857.jpg",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "아치로 이어지는 복도를 걷는 커플 뒷모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MDNfMTMz/MDAxNzg1NzMxMjY1MTU0.Cm-ehn6yNeKYIQa2tmmYVLikFqFM0Jtk3ofbdOdkQ8Eg.LZTZL9BnDG6OUvc_0Eb-BxHAr2fTitkS2nUQf6WOj-Ig.JPEG/output%EF%BC%BF2780530534.jpg",
+     "post": "https://blog.naver.com/tmddus1426/224366659705",
+     "blog_title": "👰🏻‍♀️[웨딩촬영]하남 봉스튜디오 | 스튜디오 촬영 후기 만족!!| 웨딩촬영 꿀팁/ 후회된 점",
+     "date": "2026-08-03",
+     "source_type": "customer",
+     "what": "벽등 조명의 복도에 선 블랙 착장 커플"
+    }
+   ]
+  },
+  {
+   "key": "stairs",
+   "name_ko": "나선형 계단",
+   "area": "1세트장",
+   "feature": "흰 곡선 벽이 휘감는 나선형 계단이에요(2024년부터 디딤판이 나무). 계단 위에서 내려다보는 항공샷도 가능한 우아한 배경이에요.",
+   "tip": "드레스를 살짝 잡는 손 연기가 중요해요. 흑백으로 찍어도 예쁘고, 계단 앞 후라이샷도 많이 찍어요. 작가님이 계단 위에 올라가 옆 세트를 내려다보며 찍어 주기도 해요.",
+   "aliases": [
+    "나선형 계단",
+    "계단씬",
+    "계단샷",
+    "계단"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjhfMjkw/MDAxNzYxNjM2ODI3OTkz.WKkmlPPlnk1oWadCJ4y39_yspyHtiOYbCvKEJTFwcggg.8Lxkb56kdxIDs2_TMXph1CMLThKOqmjiEr2c9b-opAMg.JPEG/IMG%EF%BC%BF4222.JPG",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "나선형 계단 전경과 촬영하는 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfMzcg/MDAxNzQ5NTU5MjE1MzE0._GFfuTNXacxljmxQ7944TS9LqlgAp4Pgg8EGS_OkF3Qg.GrI3sqeKSVOAWsKe_KpNuU2DYjXpu5BMH9S7Q0Kyal0g.JPEG/SE-9274AB03-0A20-4FFB-91A1-2ED4536B0E12.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "나선형 계단 아래 드레스를 펼치고 앉은 신부"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDRfMjQw/MDAxNzQ5MDEyMjYzMjg4.T10g3M_etOPLz2uQ0NPyc3Zf_6y8M3ioA9I2oXbFRTkg.JPcthk-gLfzRp0o8OL1f-sH--Q9A9hSFIZQp2iqqa8Yg.JPEG/SE-58AB3ECA-9788-43BB-86A6-9F55A2566121.jpg",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "나무 디딤판 계단 앞 후라이샷"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MThfMTE3/MDAxNzg3MDMyODU1ODQw.7tCgZxb5A9ucFShZs2gTkqdvQqhHBWFMm7oURyy30tEg.iBG37S20SfUU0SrVXfdkjg3h_ytbmCe3dgdwAk5vV_Ig.JPEG/SE-54E4E380-58A3-4A8C-BB7C-4B37F57835FC.jpg",
+     "post": "https://blog.naver.com/okbbang2home/224385090904",
+     "blog_title": "하남 봉스튜디오 토탈 웨딩촬영 꿀팁 소품 준비물 헤어변형 촬영 후기",
+     "date": "2026-08-21",
+     "source_type": "customer",
+     "what": "나무 계단을 오르는 커플"
+    }
+   ]
+  },
+  {
+   "key": "flowerwall",
+   "name_ko": "조화꽃 가득한 배경",
+   "area": "1세트장",
+   "feature": "보라·핑크 조화꽃과 풀이 흰 받침대 위로 빽빽하게 채워진 자리예요. 생화처럼 풍성하고 화사한 로맨틱 무드예요.",
+   "tip": "취향이 갈려요. 생화처럼 풍성하다는 후기도 있지만, 뒤에서 포옹하는 컷은 촌스럽게 나왔다는 후기도 있어요. 2024년 6월에 생긴 세트인데 2026년 후기에는 안 보여서 지금도 있는지 확인이 필요해요.",
+   "aliases": [
+    "조화꽃 배경",
+    "보라색 플라워 배경",
+    "꽃벽"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA4MDVfMjk3/MDAxNzIyODY3NDU2Mzk4.UgoBiL_b-EzWV2Z4fZdyAQ1swUHFmFC6glIGpJ0w4Fcg.jRHyZ0rR7UgK46oxCRcwbZvpDBaGLgHoOUda0K-25-Ug.JPEG/SE-c317eacd-5043-11ef-85a9-d34f8feb1f2f.jpg",
+     "post": "https://blog.naver.com/l0vebelt/223537780218",
+     "blog_title": "[W-102] 24년 봉 스튜디오 신규 배경 비토탈 촬영후기 실내 1세트장 (feat. 제이웨딩, 누벨드블랑, 히엘)",
+     "date": "2024-08-06",
+     "source_type": "customer",
+     "what": "사람 없는 조화꽃 세트: 보라·핑크 꽃과 흰 받침대(2024년)"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNDA4MDVfMjAz/MDAxNzIyODY3NDU4NTk1.lr-D4rc-feJ_FENkNlb4PIcRHM1z0i4PN1-p6wJPNRIg.EjJ_iCZiMTXxULV5BbbxMj_tJCTcy8uV1iyYsjfvf-cg.JPEG/SE-c320c471-5043-11ef-85a9-85fe59538130.jpg",
+     "post": "https://blog.naver.com/l0vebelt/223537780218",
+     "blog_title": "[W-102] 24년 봉 스튜디오 신규 배경 비토탈 촬영후기 실내 1세트장 (feat. 제이웨딩, 누벨드블랑, 히엘)",
+     "date": "2024-08-06",
+     "source_type": "customer",
+     "what": "조화꽃 세트를 가까이서 본 모습"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfNzQg/MDAxNzQ5NTU5MjEyNzY3.ZvkrDIDZeDwVeKI-nH3XtckzfyxcMpzJYMKc6pL3Wagg.3O4H5W9HgbuhJBTMFAsVltLsxNFENsUghh9ixDSq-QAg.JPEG/SE-4E36F0CF-F71F-41AF-8218-7E5AA014FF5A.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "조화꽃 사이에 선 커플 전신(2025년)"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MTBfMjcg/MDAxNzQ5NTU5NjA2MjQ2.-w7J5NjckH0XBWK0SFQ4zkLQiUunEhFFDCLxrrHb124g.iON0FUfGaUFBe48_K3CSvhJKVCetZdECrdc2hi5gaLAg.JPEG/SE-B24342F1-331C-4F3A-95E2-96E8B4C4960C.jpg",
+     "post": "https://blog.naver.com/stunnerjyj/223896303652",
+     "blog_title": "봉스튜디오 촬영후기 2탄 (배경/야외씬 웨딩촬영 리얼컷 정리) 하남웨딩스튜디오",
+     "date": "2025-06-12",
+     "source_type": "customer",
+     "what": "같은 세트에서 조금 더 가까이 찍은 커플"
+    }
+   ]
+  },
+  {
+   "key": "set2_struct",
+   "name_ko": "구조물 배경(둥근 기둥·곡선 벽)",
+   "area": "2세트장",
+   "feature": "2세트장 입구 쪽의 둥근 흰 기둥과 곡선 벽 구조물이에요. 옆에서 비추는 따뜻한 조명 덕분에 갤러리처럼 모던해요.",
+   "tip": "2세트장은 주로 준비 공간으로 쓰여서 찍는 커플이 적어요. 여기서 찍고 싶으면 상담 때 미리 말해 두세요.",
+   "aliases": [
+    "구조물배경",
+    "기둥배경",
+    "기둥",
+    "갤러리"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTUw/MDAxNzg5ODg0NTQ1OTIw.8qeCaNXLnkxBZacZYbBHGa-2BbIj7Dd_9-bIrjCnQQsg.nVpCNb51YQxzUEZ5Au2Rd3dQe_lm8C_7NVWinp-VlvUg.JPEG/20260829_121102.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "빈 2세트장의 곡선 흰 벽 구조물과 계단식 바닥"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjhfODcg/MDAxNzYxNjM1OTQ2MDAw.6HA6Fm9gUPEHz5NXi-sYUrDDuP9-RkwrOHbBPJDQhB8g.tsgs5iqFWz9FftqZ1fm-egBMq6hb2ZitxEP1e-DRdDIg.JPEG/IMG%EF%BC%BF4176.JPG",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "2세트장 곡선 구조물 전경과 조명 장비"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDRfMjA2/MDAxNzQ5MDEyMjcxNTIy.FVkln3KC21HMZ6xOAHjGBxv1XILvHMGbyPTmCUdLQy0g.jUtkyhg_BSjADcbPsKnNJJ13f12sKlQCeQHWLzoXqPQg.JPEG/SE-2E50EA08-2B51-41ED-B3AD-25B03613E979.jpg",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "둥근 흰 기둥 앞 커플, 따뜻한 측광"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA1MTFfOSAg/MDAxNzc4NTA0NTYzODQ4.pS5xTLHbqcHNyVqGvQE2YzNbRwRRQrmEvG_C6x1N728g.vJYrZ8MUmwayeaTj2E9dlqdMf7VMJPdPYZxWdrAeHaUg.JPEG/output%EF%BC%BF2628263825.jpg",
+     "post": "https://blog.naver.com/cyeakl/224282268493",
+     "blog_title": "하남 봉스튜디오 웨딩촬영후기 세트장 시안 컨셉 분위기",
+     "date": "2026-05-11",
+     "source_type": "customer",
+     "what": "기둥 옆 따뜻한 조명 속에서 포옹하는 커플"
+    }
+   ]
+  },
+  {
+   "key": "set2_curtain",
+   "name_ko": "커튼 배경",
+   "area": "2세트장",
+   "feature": "천장 높이의 흰 커튼 앞에 흰 천을 두른 긴 테이블과 꽃이 놓인 자리예요. 조명에 따라 밝게도, 따뜻한 촛불 무드로도 연출돼요.",
+   "tip": "블로거가 직접 찍은 고객 사진은 찾지 못했어요. 포트폴리오의 \"야간\"·\"프로젝터\" 컷(촛불 롱테이블, 따뜻한 조명)이 이 커튼 배경으로 보여요. 원하면 상담 때 콕 집어 요청하세요.",
+   "aliases": [
+    "커튼배경"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTg4/MDAxNzg5ODg0NTQ2Mzgz.hd0owdWwMw-YFSfOLjEertsGUEw6I62NipUEB-XcQssg.xsWWzZibQ7dwVJsoHyE0NnMhVP5SGsMSX0W3HTF2glEg.JPEG/20260829_121110.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "빈 2세트장의 흰 커튼과 흰 꽃 롱테이블"
+    }
+   ]
+  },
+  {
+   "key": "set2_color",
+   "name_ko": "원색 배경(검정·빨강)",
+   "area": "2세트장",
+   "feature": "무광 검정 천과 빨강 벽으로 된 원색 배경이에요. 인물에 시선이 모이는 강렬하고 화보 같은 컷이 나와요.",
+   "tip": "검정 배경에서 화이트 드레스로 정석 컷을 찍어도 좋아요. 빨강 배경은 필름카메라 같은 소품과 함께 캐주얼하고 키치한 컷에 쓰여요.",
+   "aliases": [
+    "원색배경",
+    "검은벽",
+    "블랙",
+    "한화",
+    "빨간 배경"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMjE3/MDAxNzg5ODg0NTQ2Mzky.5c1xjrFPQTjNlJBCD8P-2t5KkmAM15CCrcjpCReHSpIg.4SNXtU0NWnOFtC0P4yj2N7TnlZ0PRK-F6fq-jebdoSog.JPEG/20260829_121131.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "빈 2세트장: 왼쪽 빨강 벽, 오른쪽 검정 천 배경"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDRfMzEg/MDAxNzQ5MDEyMjc1Njgw.wuy4n9m2kZba-C11xBHPyPE73ec9BvV-lelz4PsIrjYg.-gJhzppqqyNpUhlCKg0IlUnKvAPTLcxhnrxNxTm-YnYg.JPEG/SE-D81AA896-E3C8-4BC0-9253-55CEF4E5E03D.jpg",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "검정 배경과 초록 화단 앞 커플 전신"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDRfMTc0/MDAxNzQ5MDEyMjc2NTIy.ob6BE6q8kHfZIA2T2ePLx7D4CIEGhx_hqQukLadymf4g.vCkxqA3AqzoJ0iuOR7InGeTYt1dyHlwB0gkELPIqgUkg.JPEG/SE-5E8E55C1-767C-4CA3-B2D0-07F1AD8C8DA9.jpg",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "검정 배경 앞에서 헬퍼가 매무새를 정리해 주는 모습"
+    }
+   ]
+  },
+  {
+   "key": "bamboo",
+   "name_ko": "대나무 터널 & 전구 마당(야간씬)",
+   "area": "기타",
+   "feature": "2세트장에서 1세트장으로 넘어가는 투명 지붕의 대나무 터널과, 그 끝의 전구줄 달린 마당이에요. 해가 지면 전구가 켜져 따뜻한 야간씬이 돼요.",
+   "tip": "야간씬까지 찍으려면 오후 2시 반쯤 촬영을 추천해요. 스파클라(불꽃)나 피크닉 테이블 연출이 인기이고, 겨울 야간은 정말 추우니 단단히 대비하세요.",
+   "aliases": [
+    "대나무터널",
+    "야간씬",
+    "야간 촬영",
+    "야외 피크닉 세트",
+    "계단 문/마당"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTc1/MDAxNzg5ODg1OTE0NDIx.B8b-JwjCGYavE-rqM2oATwRruylhoKsQC90XdG73I98g.ULaQL3c4KSWIO8G2WqPsIEmmHwFsXiEhp6nU4skRSiIg.JPEG/20260829_121509.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "낮에 본 빈 대나무 터널, 투명 아치 지붕"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA5MjBfMjkg/MDAxNzg5ODg1OTEzMTU5.qtPtAAg3-OfQtqF8yEePBgt8SQj8pk0tGETbyxFfDlQg.vUa3fGlOgXRR6tCZfdAK7IDTZKpY2D5qoDEdKzaUMigg.JPEG/20260829_121521.jpg",
+     "post": "https://blog.naver.com/dpfla0203/224417831659",
+     "blog_title": "✨ [하남 봉스튜디오] 토탈 촬영 2탄: 세트장 구조 완벽 분석 🏰",
+     "date": "2026-09-20",
+     "source_type": "customer",
+     "what": "터널 끝 자갈 마당과 전구줄(낮)"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MThfMTAx/MDAxNzg3MDMyMzM0MTU0.9q4z9Y0Iv7HFq3Tb3YAF7ol4CFjgM9Na4TWVQqvzAAAg.G-ul4PI2BiU5hBJahxPaA-PczWaYhwcHPFE-eXCdBKIg.JPEG/SE-BA77384F-2ADF-4E96-ABD9-89F70B90ACFE.jpg",
+     "post": "https://blog.naver.com/okbbang2home/224385090904",
+     "blog_title": "하남 봉스튜디오 토탈 웨딩촬영 꿀팁 소품 준비물 헤어변형 촬영 후기",
+     "date": "2026-08-21",
+     "source_type": "customer",
+     "what": "밤에 전구줄 아래 피크닉 테이블에 앉은 커플"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNjA4MTlfNjgg/MDAxNzg3MTQzODg4Nzg1.KndPVJxAaAB0XcqKQjA0h6Buk7nximxo3inhtagQ1mYg.5HNjArm77hvR6rCxcSPNJuAgvJyq5UXt1ZnBjzoWX6wg.JPEG/SE-CC6A1F42-C53A-4BFB-8D65-5101CC91BE26.jpg",
+     "post": "https://blog.naver.com/okbbang2home/224385090904",
+     "blog_title": "하남 봉스튜디오 토탈 웨딩촬영 꿀팁 소품 준비물 헤어변형 촬영 후기",
+     "date": "2026-08-21",
+     "source_type": "customer",
+     "what": "반짝이는 전구 커튼 앞 베일 속 커플(야간)"
+    }
+   ]
+  },
+  {
+   "key": "backgate",
+   "name_ko": "뒷마당 문(잔디 마당)",
+   "area": "기타",
+   "feature": "꽃 장식 메인 아치 뒤편 문으로 나가면 나오는 잔디 마당과 샹들리에 달린 나무 양문이에요. 시그니처 흰 대문과는 다른 두 번째 대문 배경이에요.",
+   "tip": "블로거들이 이곳도 \"대문\"이라 불러서 흰 대문과 헷갈려요. 원하는 쪽을 사진으로 짚어서 요청하세요.",
+   "aliases": [
+    "대문(꽃 아치 뒤)",
+    "세트장 대문"
+   ],
+   "photos": [
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTEwMjhfMjUy/MDAxNzYxNjM1OTQ2MjQ1.7qtM_IBmYV61Y_BYzx7uM7Yql7c0H4cvJrm4avrbmLYg.gnKYc3ZSw4yW7WtrwokCmS9P5XPmtFKZD0fjBSdQmH8g.JPEG/IMG%EF%BC%BF4174.JPG",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "사람 없는 뒷마당: 나무 양문, 벽등, 잔디"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTA2MDRfNjEg/MDAxNzQ5MDEyMjc0NzEx.9r_YnS2GJQbd9JqPw1uX4VvvtoSMs6nhhp7pGjOTx94g.M5JTqOXpSbEuEFJYEyV8YJv6hfRHEHlIn0p4KZPyqKEg.JPEG/SE-EF589F6C-26BC-4D28-BCB1-605DA2838BBA.jpg",
+     "post": "https://blog.naver.com/aeonian_hx/223888263497",
+     "blog_title": "[Wedding_29] 리뉴얼 봉스튜디오 촬영 후기｜feat. 헤어변형 MUF 희은",
+     "date": "2025-06-04",
+     "source_type": "customer",
+     "what": "잔디 마당, 나무 양문과 샹들리에 앞에서 준비 중인 신부"
+    },
+    {
+     "img": "https://postfiles.pstatic.net/MjAyNTExMTBfMjY1/MDAxNzYyNzU3NTAyNjUz.FGlA97lUz5hOO_ytQmsTKvobHlN1i95DaEEDa65GOekg.Wa1LDaHAkgqs2So7Xlf8R0RCSnqlCikFyIs7PGAQLCcg.JPEG/IMG%EF%BC%BF3766.jpg",
+     "post": "https://blog.naver.com/mmoe03/224393072265",
+     "blog_title": "📋 review｜[웨딩촬영] 토탈스튜디오 ‘봉스튜디오’ 25년 10월 가을 촬영후기(첫타임촬영, 추가금없는 드레스, 알리 유색드레스, 숨고 헤어변형, 준비물 총정리)",
+     "date": "2026-08-28",
+     "source_type": "customer",
+     "what": "나무 양문과 벽등 앞 잔디 위 커플 전신"
+    }
+   ]
+  }
+ ],
+ "portfolio_map": {
+  "통창": "bigwindow",
+  "육각창": "anglewindow",
+  "작은창": "smallwindow",
+  "합판벽": "wood",
+  "반반": "wood",
+  "개선문": "flowerarch",
+  "성벽": "greenarch",
+  "주간파티": "party",
+  "화이트": "whitewall",
+  "갤러리": "set2_struct",
+  "문앞": "hoteldoor",
+  "낮복도": "corridor",
+  "복도": "corridor",
+  "계단": "stairs",
+  "블랙": "set2_color",
+  "한화": "set2_color",
+  "야간": "set2_curtain",
+  "프로젝터": "set2_curtain",
+  "정원": "gate",
+  "운동장": "outdoor",
+  "두건": "outdoor",
+  "똥강아지": "outdoor",
+  "미니결혼": "outdoor",
+  "베일": "outdoor",
+  "벤치": "outdoor",
+  "센터피스": "outdoor",
+  "포스터": "outdoor",
+  "하트": "outdoor",
+  "클업": "unknown/closeup"
+ },
+ "notes": "[포트폴리오 매핑 확신도] 확실: 통창·육각창·작은창·합판벽·개선문(볼 조명 아치 홀)·성벽(백합 초록 아치)·주간파티(블랙 리본 케이크 테이블)·낮복도/복도·계단·블랙·정원(검은 문 입구와 화단). 야외 9종도 확실. 추정: 반반(흰 벽 앞 블랙 소파, 1세트장 합판벽·블랙 소파 구역으로 봄), 화이트(흰 방 코너에 파티 소품을 둔 컷, 흰벽씬으로 봄), 갤러리(곡선 흰 벽·둥근 기둥, 2세트장 구조물로 봤지만 흰벽씬일 수도 있음), 문앞(흰 문 옆 역광, 높은 흰 문으로 봄), 야간·프로젝터(흰 새틴 커튼 앞 촛불 롱테이블과 따뜻한 조명, 2세트장 커튼 배경 세팅으로 봄. 이름과 달리 실내), 한화(레드·오렌지 배경, 2세트장 빨강 원색 배경). 클업은 배경을 알 수 없는 클로즈업. 샘플에 2026.10.25 Save the Date 피켓이 있어 최근 촬영본으로 보임. 이미지(avif)는 Pillow로 변환해서 직접 확인함. [세트 변화] 2024년 6월 리뉴얼 때 나선형 계단 디딤판이 흰색에서 나무로 바뀌었고, 호텔 복도·창문+테이블+소파·조화꽃 배경·자갈밭이 새로 생겼고, 흰 문 배경이 아치형 벽에서 네모 문틀로 바뀌었어요(l0vebelt). 꽃 장식 아치 두 곳은 장식이 수시로 바뀌어요. 조화꽃 배경(flowerwall)과 2024년의 자갈밭+나무+벤치 배경은 2026년 후기와 전경 사진에 안 보여서 없어졌을 수 있어요(자갈밭은 사진이 l0vebelt IMG4 한 장뿐이라 별도 키로 넣지 않음). 2022년 후기(eunju3290)의 2세트장 꽃방과 에디슨 전구 배경도 최근 후기에는 안 보여요. 2세트장에는 커튼 옆에 둥근 초록 잎 후프 아치도 있어요(mmoe03 IMG26, 2025년 가을). \"창틀\"이라는 이름은 블로거마다 달라요(rlckd0730은 통창을 창틀이라 부름). 창가 배경은 통창과 각진 창틀 두 곳이에요. 대문도 두 곳이에요. 1세트장 정문(검은 양문, 흰 박공 건물)과 꽃 아치 뒤 잔디 마당의 나무 양문(backgate로 새로 추가). [사진 출처] seoriniiiii 글의 세트 사진은 모두 봉스튜디오 인스타그램 출처라 목록에서 뺐어요. 커튼 배경은 고객 사진이 없어 빈 세트 사진 1장만 넣었어요. date는 블로그 글 작성일이라 실제 촬영일과 다를 수 있어요(예: mmoe03은 2025년 10월 촬영, 2026년 8월 작성)."
+}
