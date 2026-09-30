@@ -8,6 +8,7 @@
 - [봉스튜디오 촬영 배경 · 신부 드레스 목록](https://o-fireheart-o.github.io/wedding-shoot/report/bong_sets_dresses.html)
 - [봉스튜디오 신랑·신부 헤어·메이크업](https://o-fireheart-o.github.io/wedding-shoot/report/bong_hair_makeup.html)
 - [샴페인샷 시안 모음](https://o-fireheart-o.github.io/wedding-shoot/report/champagne_shot.html)
+- [세미 웨딩룩 캐주얼샷 레퍼런스](https://o-fireheart-o.github.io/wedding-shoot/report/semi_wedding_look.html)
 - [하남 봉스튜디오 웨딩촬영 콘셉트 보고서](https://o-fireheart-o.github.io/wedding-shoot/report/wedding_concept_report.html)
 - [웨딩촬영 신랑 헤어스타일 순위 보고서](https://o-fireheart-o.github.io/wedding-shoot/report/groom_hairstyle_report.html)
 
